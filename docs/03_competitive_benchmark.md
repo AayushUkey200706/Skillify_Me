@@ -1,0 +1,1 @@
+# Competitive Benchmark\n\n| Competitor | Mentorship | Price | Portfolio Value |\n|---|---|---|---|\n| Internshala | Low | Low | Low |\n| Forage | None | Free | Medium |\n| **SkillifyMe** | **High** | **Premium** | **High** |

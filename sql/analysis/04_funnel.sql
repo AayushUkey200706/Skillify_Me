@@ -1,0 +1,1 @@
+SELECT COUNT(*) as total, SUM(CASE WHEN intent >= 4 THEN 1 ELSE 0 END) as high_interest, SUM(CASE WHEN intent >= 4 AND hours_available >= 10 THEN 1 ELSE 0 END) as interested_with_time, SUM(CASE WHEN intent >= 4 AND hours_available >= 10 AND willing_to_pay = 1 THEN 1 ELSE 0 END) as hql FROM respondents;

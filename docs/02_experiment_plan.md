@@ -1,0 +1,1 @@
+# Experiment Plan (A/B Test)\n\n**Hypothesis:** Messaging emphasizing 'Portfolio Building' yields a 15% higher application rate than 'Mentorship'.\n- **Primary Metric:** Application Rate\n- **Randomization:** User ID hash (modulo 2)\n- **Sample Size:** 2,500 per arm (80% power, 5% alpha)

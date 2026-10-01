@@ -1,0 +1,1 @@
+SELECT a.pain_point as prob1, b.pain_point as prob2, COUNT(*) as co_occurrences FROM pain_points a JOIN pain_points b ON a.respondent_id = b.respondent_id AND a.pain_point < b.pain_point GROUP BY prob1, prob2 ORDER BY co_occurrences DESC LIMIT 10;

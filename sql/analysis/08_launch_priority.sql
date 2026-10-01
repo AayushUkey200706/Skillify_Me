@@ -1,0 +1,1 @@
+SELECT career_goal, COUNT(*) as size, AVG(intent) as avg_intent, AVG(pain_severity) as avg_severity, ROUND(COUNT(*) * AVG(intent) * AVG(pain_severity), 2) as launch_score FROM respondents GROUP BY career_goal ORDER BY launch_score DESC;

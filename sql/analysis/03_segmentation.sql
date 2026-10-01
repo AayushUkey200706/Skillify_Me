@@ -1,0 +1,1 @@
+SELECT r.career_goal, p.pain_point, COUNT(r.respondent_id) as count, ROUND(COUNT(r.respondent_id) * 100.0 / SUM(COUNT(r.respondent_id)) OVER(PARTITION BY r.career_goal), 2) as pct_in_segment FROM respondents r JOIN pain_points p ON r.respondent_id = p.respondent_id GROUP BY r.career_goal, p.pain_point;

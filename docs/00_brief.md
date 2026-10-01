@@ -1,0 +1,1 @@
+# Project Brief\n\n## Business Question\nShould we launch the Research Internship Program? Which segment first?\n\n## Hypotheses\n1. Mentorship is the top pain point.\n2. Severity is higher in final-year students.\n3. Career goal predicts intent.

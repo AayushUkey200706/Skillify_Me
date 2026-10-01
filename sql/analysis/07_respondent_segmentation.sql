@@ -1,0 +1,1 @@
+SELECT CASE WHEN intent >=4 AND pain_severity >=4 THEN 'High Need / High Intent' WHEN intent <4 AND pain_severity >=4 THEN 'High Need / Low Intent' WHEN intent >=4 AND pain_severity <4 THEN 'Low Need / High Intent' ELSE 'Low Need / Low Intent' END as quadrant, COUNT(*) as size FROM respondents GROUP BY 1;

@@ -1,0 +1,1001 @@
+respondent_id,name,email,phone,year_of_study,domain,career_goal,college_tier,pain_severity,skill_research,intent,hours_available,willing_to_pay,pain_points
+R0001,Student_1,student1@test.com,555-0101,1st,Engineering,Researcher,Tier 1,5,1,3,2,1,Lack of practical experience;No industry connections
+R0002,Student_2,student2@test.com,555-0102,1st,Science,Data Scientist,Tier 3,2,1,1,22,1,No mentorship;No research exposure
+R0003,Student_3,student3@test.com,555-0103,Graduated,Arts,Software Engineer,Tier 1,2,3,2,10,0,No research exposure
+R0004,Student_4,student4@test.com,555-0104,1st,Arts,Researcher,Tier 3,3,2,5,14,1,Lack of practical experience;Poor portfolio
+R0005,Student_5,student5@test.com,555-0105,Graduated,Arts,Data Scientist,Tier 3,4,2,4,7,1,Poor portfolio;No research exposure
+R0006,Student_6,student6@test.com,555-0106,3rd,Science,Researcher,Tier 2,3,3,1,21,0,No mentorship;No industry connections;Lack of practical experience
+R0007,Student_7,student7@test.com,555-0107,4th,Commerce,Researcher,Tier 3,2,1,3,1,0,Poor portfolio
+R0008,Student_8,student8@test.com,555-0108,4th,Arts,Software Engineer,Tier 1,4,1,4,22,0,No research exposure
+R0009,Student_9,student9@test.com,555-0109,4th,Commerce,Data Scientist,Tier 2,4,1,4,13,0,No mentorship;No industry connections
+R0010,Student_10,student10@test.com,555-0110,Graduated,Commerce,Software Engineer,Tier 1,3,2,2,5,0,Lack of practical experience;No research exposure;No mentorship
+R0011,Student_11,student11@test.com,555-0111,Graduated,Commerce,Researcher,Tier 3,3,2,3,17,0,Poor portfolio;Lack of practical experience;No mentorship
+R0012,Student_12,student12@test.com,555-0112,4th,Science,Product Manager,Tier 1,5,1,1,8,1,No industry connections
+R0013,Student_13,student13@test.com,555-0113,1st,Arts,Data Scientist,Tier 1,3,4,2,0,1,No research exposure;Lack of practical experience
+R0014,Student_14,student14@test.com,555-0114,1st,Arts,Researcher,Tier 1,5,3,2,2,0,No research exposure;Lack of practical experience;Poor portfolio
+R0015,Student_15,student15@test.com,555-0115,2nd,Science,Product Manager,Tier 3,4,1,3,17,0,Poor portfolio;No research exposure;No industry connections
+R0016,Student_16,student16@test.com,555-0116,3rd,Commerce,Product Manager,Tier 1,3,2,1,0,1,No mentorship;No industry connections;Lack of practical experience
+R0017,Student_17,student17@test.com,555-0117,1st,Engineering,Data Scientist,Tier 1,2,3,4,21,0,No industry connections
+R0018,Student_18,student18@test.com,555-0118,2nd,Commerce,Data Scientist,Tier 2,3,1,3,3,0,No research exposure;No industry connections
+R0019,Student_19,student19@test.com,555-0119,4th,Engineering,Software Engineer,Tier 1,4,2,2,6,1,No mentorship;No research exposure
+R0020,Student_20,student20@test.com,555-0120,2nd,Arts,Product Manager,Tier 1,3,2,2,25,1,Lack of practical experience
+R0021,Student_21,student21@test.com,555-0121,Graduated,Engineering,Software Engineer,Tier 1,4,2,3,1,0,Lack of practical experience;No research exposure
+R0022,Student_22,student22@test.com,555-0122,3rd,Commerce,Researcher,Tier 2,2,1,4,25,0,No mentorship
+R0023,Student_23,student23@test.com,555-0123,3rd,Science,Software Engineer,Tier 3,3,2,2,15,1,No mentorship;Lack of practical experience;Poor portfolio
+R0024,Student_24,student24@test.com,555-0124,1st,Science,Software Engineer,Tier 3,5,3,3,12,0,No mentorship;Lack of practical experience;Poor portfolio
+R0025,Student_25,student25@test.com,555-0125,1st,Commerce,Researcher,Tier 2,5,2,3,21,0,Poor portfolio;Lack of practical experience
+R0026,Student_26,student26@test.com,555-0126,1st,Commerce,Software Engineer,Tier 1,2,2,4,4,0,No mentorship
+R0027,Student_27,student27@test.com,555-0127,3rd,Arts,Data Scientist,Tier 2,2,1,3,20,1,No industry connections
+R0028,Student_28,student28@test.com,555-0128,3rd,Engineering,Data Scientist,Tier 2,3,2,1,17,0,Poor portfolio;No mentorship
+R0029,Student_29,student29@test.com,555-0129,3rd,Science,Researcher,Tier 3,3,2,1,13,0,Lack of practical experience
+R0030,Student_30,student30@test.com,555-0130,3rd,Science,Researcher,Tier 1,3,1,3,13,1,Lack of practical experience
+R0031,Student_31,student31@test.com,555-0131,1st,Science,Software Engineer,Tier 2,3,3,2,25,0,No mentorship;No industry connections
+R0032,Student_32,student32@test.com,555-0132,1st,Arts,Product Manager,Tier 3,3,1,3,7,0,No research exposure
+R0033,Student_33,student33@test.com,555-0133,1st,Science,Researcher,Tier 2,1,2,4,25,1,Lack of practical experience;No research exposure
+R0034,Student_34,student34@test.com,555-0134,2nd,Science,Product Manager,Tier 2,2,4,2,7,0,No mentorship
+R0035,Student_35,student35@test.com,555-0135,4th,Arts,Researcher,Tier 1,3,1,4,17,0,Lack of practical experience
+R0036,Student_36,student36@test.com,555-0136,3rd,Science,Researcher,Tier 1,4,3,2,23,0,No industry connections;Lack of practical experience
+R0037,Student_37,student37@test.com,555-0137,4th,Science,Researcher,Tier 1,3,3,3,23,0,No research exposure;Lack of practical experience
+R0038,Student_38,student38@test.com,555-0138,3rd,Arts,Software Engineer,Tier 3,4,1,2,21,0,No research exposure;Poor portfolio
+R0039,Student_39,student39@test.com,555-0139,Graduated,Science,Data Scientist,Tier 2,2,2,2,18,0,No industry connections;Lack of practical experience
+R0040,Student_40,student40@test.com,555-0140,3rd,Arts,Data Scientist,Tier 2,3,1,2,10,0,No research exposure;No mentorship
+R0041,Student_41,student41@test.com,555-0141,Graduated,Commerce,Data Scientist,Tier 3,4,1,4,24,1,Poor portfolio;No mentorship;Lack of practical experience
+R0042,Student_42,student42@test.com,555-0142,2nd,Engineering,Software Engineer,Tier 1,4,2,2,24,0,No research exposure;No mentorship
+R0043,Student_43,student43@test.com,555-0143,4th,Commerce,Product Manager,Tier 1,4,4,3,3,0,No mentorship
+R0044,Student_44,student44@test.com,555-0144,Graduated,Commerce,Software Engineer,Tier 3,3,4,1,14,0,No industry connections;Poor portfolio
+R0045,Student_45,student45@test.com,555-0145,4th,Commerce,Product Manager,Tier 1,2,2,2,20,0,No research exposure;No mentorship;No industry connections
+R0046,Student_46,student46@test.com,555-0146,4th,Engineering,Researcher,Tier 1,3,3,4,17,1,No mentorship
+R0047,Student_47,student47@test.com,555-0147,2nd,Commerce,Data Scientist,Tier 3,4,1,3,1,0,No research exposure;Lack of practical experience
+R0048,Student_48,student48@test.com,555-0148,Graduated,Commerce,Product Manager,Tier 1,4,2,3,12,0,No industry connections;No mentorship;No research exposure
+R0049,Student_49,student49@test.com,555-0149,2nd,Arts,Product Manager,Tier 2,3,2,3,5,0,No industry connections
+R0050,Student_50,student50@test.com,555-0150,Graduated,Engineering,Product Manager,Tier 3,3,2,2,20,0,No research exposure
+R0051,Student_51,student51@test.com,555-0151,2nd,Engineering,Researcher,Tier 2,4,1,2,8,0,Lack of practical experience;No research exposure
+R0052,Student_52,student52@test.com,555-0152,1st,Engineering,Researcher,Tier 1,2,1,5,20,1,No mentorship
+R0053,Student_53,student53@test.com,555-0153,2nd,Engineering,Data Scientist,Tier 1,4,1,4,22,0,No mentorship;Lack of practical experience
+R0054,Student_54,student54@test.com,555-0154,2nd,Arts,Software Engineer,Tier 3,4,2,2,21,0,No mentorship;Lack of practical experience
+R0055,Student_55,student55@test.com,555-0155,Graduated,Science,Software Engineer,Tier 3,1,2,3,18,0,No industry connections;No research exposure
+R0056,Student_56,student56@test.com,555-0156,3rd,Engineering,Researcher,Tier 1,4,1,3,3,0,No research exposure;No mentorship
+R0057,Student_57,student57@test.com,555-0157,4th,Science,Researcher,Tier 3,2,1,3,23,1,Poor portfolio;No mentorship
+R0058,Student_58,student58@test.com,555-0158,1st,Arts,Product Manager,Tier 1,3,1,3,21,0,Lack of practical experience;No research exposure
+R0059,Student_59,student59@test.com,555-0159,3rd,Science,Product Manager,Tier 1,4,2,2,8,1,No industry connections
+R0060,Student_60,student60@test.com,555-0160,2nd,Engineering,Data Scientist,Tier 3,2,3,4,7,0,No research exposure;No industry connections;Lack of practical experience
+R0061,Student_61,student61@test.com,555-0161,1st,Arts,Data Scientist,Tier 2,2,1,2,16,0,No industry connections;Poor portfolio
+R0062,Student_62,student62@test.com,555-0162,3rd,Commerce,Researcher,Tier 2,3,3,2,6,0,No industry connections
+R0063,Student_63,student63@test.com,555-0163,2nd,Science,Data Scientist,Tier 3,3,3,1,9,0,Poor portfolio
+R0064,Student_64,student64@test.com,555-0164,2nd,Arts,Data Scientist,Tier 2,4,2,2,8,0,No industry connections
+R0065,Student_65,student65@test.com,555-0165,3rd,Science,Product Manager,Tier 1,2,1,3,5,0,No research exposure;Lack of practical experience
+R0066,Student_66,student66@test.com,555-0166,1st,Commerce,Product Manager,Tier 1,2,1,3,4,0,Poor portfolio;Lack of practical experience;No research exposure
+R0067,Student_67,student67@test.com,555-0167,1st,Commerce,Data Scientist,Tier 3,4,2,1,13,0,No industry connections;Lack of practical experience;Poor portfolio
+R0068,Student_68,student68@test.com,555-0168,1st,Science,Data Scientist,Tier 2,3,2,4,5,1,Lack of practical experience
+R0069,Student_69,student69@test.com,555-0169,4th,Commerce,Product Manager,Tier 2,3,2,3,2,0,No industry connections;No mentorship
+R0070,Student_70,student70@test.com,555-0170,4th,Engineering,Data Scientist,Tier 3,3,3,4,4,1,No mentorship
+R0071,Student_71,student71@test.com,555-0171,3rd,Arts,Product Manager,Tier 1,3,1,2,17,0,Lack of practical experience;No industry connections
+R0072,Student_72,student72@test.com,555-0172,4th,Arts,Researcher,Tier 1,5,3,3,18,1,Poor portfolio
+R0073,Student_73,student73@test.com,555-0173,Graduated,Engineering,Data Scientist,Tier 2,3,1,1,13,0,No research exposure
+R0074,Student_74,student74@test.com,555-0174,3rd,Commerce,Researcher,Tier 2,2,1,5,10,0,No research exposure;Poor portfolio;No industry connections
+R0075,Student_75,student75@test.com,555-0175,4th,Engineering,Product Manager,Tier 1,4,3,2,16,0,No industry connections;No research exposure;No mentorship
+R0076,Student_76,student76@test.com,555-0176,1st,Science,Researcher,Tier 3,3,1,3,24,0,Poor portfolio
+R0077,Student_77,student77@test.com,555-0177,Graduated,Science,Researcher,Tier 2,2,3,4,25,1,No mentorship;Poor portfolio;No research exposure
+R0078,Student_78,student78@test.com,555-0178,1st,Commerce,Software Engineer,Tier 1,5,2,3,14,0,No mentorship;No research exposure;Poor portfolio
+R0079,Student_79,student79@test.com,555-0179,3rd,Arts,Product Manager,Tier 2,3,1,3,19,1,No mentorship;Lack of practical experience;No industry connections
+R0080,Student_80,student80@test.com,555-0180,4th,Arts,Researcher,Tier 1,3,3,3,18,1,No research exposure;No mentorship;No industry connections
+R0081,Student_81,student81@test.com,555-0181,Graduated,Commerce,Researcher,Tier 2,3,1,2,6,0,No research exposure;No mentorship;No industry connections
+R0082,Student_82,student82@test.com,555-0182,1st,Arts,Product Manager,Tier 3,4,1,3,21,0,Lack of practical experience;No mentorship
+R0083,Student_83,student83@test.com,555-0183,Graduated,Arts,Software Engineer,Tier 2,4,3,4,20,1,No research exposure
+R0084,Student_84,student84@test.com,555-0184,3rd,Arts,Product Manager,Tier 3,4,2,3,21,1,Poor portfolio;No research exposure
+R0085,Student_85,student85@test.com,555-0185,Graduated,Engineering,Software Engineer,Tier 1,1,4,1,13,0,Lack of practical experience;No research exposure;No industry connections
+R0086,Student_86,student86@test.com,555-0186,3rd,Engineering,Software Engineer,Tier 2,3,1,2,11,0,No mentorship
+R0087,Student_87,student87@test.com,555-0187,Graduated,Commerce,Data Scientist,Tier 1,4,1,3,15,1,No mentorship
+R0088,Student_88,student88@test.com,555-0188,4th,Arts,Product Manager,Tier 2,2,1,4,14,0,No industry connections;No mentorship;Lack of practical experience
+R0089,Student_89,student89@test.com,555-0189,4th,Arts,Researcher,Tier 3,3,1,4,12,0,No mentorship
+R0090,Student_90,student90@test.com,555-0190,4th,Arts,Researcher,Tier 3,2,5,3,21,0,Lack of practical experience;No industry connections
+R0091,Student_91,student91@test.com,555-0191,Graduated,Commerce,Researcher,Tier 1,2,1,2,21,0,Lack of practical experience;No industry connections;No mentorship
+R0092,Student_92,student92@test.com,555-0192,4th,Engineering,Researcher,Tier 3,4,4,2,10,0,No mentorship
+R0093,Student_93,student93@test.com,555-0193,2nd,Arts,Researcher,Tier 1,5,1,3,23,0,No research exposure
+R0094,Student_94,student94@test.com,555-0194,1st,Science,Data Scientist,Tier 3,3,1,3,25,1,Lack of practical experience;No research exposure
+R0095,Student_95,student95@test.com,555-0195,1st,Arts,Software Engineer,Tier 2,4,2,1,20,0,No mentorship
+R0096,Student_96,student96@test.com,555-0196,4th,Engineering,Researcher,Tier 3,3,2,4,14,0,No research exposure;Lack of practical experience;No industry connections
+R0097,Student_97,student97@test.com,555-0197,1st,Engineering,Researcher,Tier 2,3,1,4,11,0,No mentorship;No research exposure;Poor portfolio
+R0098,Student_98,student98@test.com,555-0198,1st,Commerce,Product Manager,Tier 2,4,2,2,14,0,Poor portfolio
+R0099,Student_99,student99@test.com,555-0199,1st,Arts,Researcher,Tier 1,3,3,2,14,0,No mentorship;Lack of practical experience;No research exposure
+R0100,Student_100,student100@test.com,555-0100,3rd,Science,Data Scientist,Tier 3,4,4,4,17,1,No mentorship;No industry connections;No research exposure
+R0101,Student_101,student101@test.com,555-0101,2nd,Engineering,Researcher,Tier 1,3,2,4,0,1,Poor portfolio
+R0102,Student_102,student102@test.com,555-0102,2nd,Arts,Software Engineer,Tier 1,3,3,2,13,1,Lack of practical experience
+R0103,Student_103,student103@test.com,555-0103,4th,Commerce,Researcher,Tier 3,2,2,2,23,1,No research exposure;Lack of practical experience
+R0104,Student_104,student104@test.com,555-0104,1st,Commerce,Product Manager,Tier 2,3,1,4,14,1,Poor portfolio
+R0105,Student_105,student105@test.com,555-0105,Graduated,Science,Software Engineer,Tier 1,4,1,2,19,1,No research exposure;No industry connections
+R0106,Student_106,student106@test.com,555-0106,1st,Engineering,Data Scientist,Tier 2,2,2,2,10,0,No research exposure;Lack of practical experience
+R0107,Student_107,student107@test.com,555-0107,3rd,Commerce,Researcher,Tier 3,5,2,3,2,0,No research exposure
+R0108,Student_108,student108@test.com,555-0108,1st,Arts,Data Scientist,Tier 3,5,3,1,17,0,Lack of practical experience;No research exposure;No mentorship
+R0109,Student_109,student109@test.com,555-0109,4th,Engineering,Researcher,Tier 3,3,1,3,15,0,Poor portfolio
+R0110,Student_110,student110@test.com,555-0110,Graduated,Arts,Software Engineer,Tier 2,1,1,2,17,1,No industry connections;Lack of practical experience;Poor portfolio
+R0111,Student_111,student111@test.com,555-0111,3rd,Engineering,Data Scientist,Tier 2,2,2,2,4,1,No research exposure;Lack of practical experience;No industry connections
+R0112,Student_112,student112@test.com,555-0112,1st,Engineering,Data Scientist,Tier 2,2,2,3,11,0,Poor portfolio;Lack of practical experience;No research exposure
+R0113,Student_113,student113@test.com,555-0113,2nd,Science,Software Engineer,Tier 3,4,1,3,13,0,No industry connections
+R0114,Student_114,student114@test.com,555-0114,1st,Arts,Product Manager,Tier 1,3,3,3,15,1,Poor portfolio;Lack of practical experience;No research exposure
+R0115,Student_115,student115@test.com,555-0115,4th,Engineering,Software Engineer,Tier 1,4,2,2,10,0,No research exposure
+R0116,Student_116,student116@test.com,555-0116,4th,Science,Data Scientist,Tier 2,2,2,3,17,0,No research exposure
+R0117,Student_117,student117@test.com,555-0117,1st,Commerce,Software Engineer,Tier 2,2,1,4,22,0,Lack of practical experience;No research exposure
+R0118,Student_118,student118@test.com,555-0118,1st,Arts,Data Scientist,Tier 3,2,2,2,11,0,Lack of practical experience;No mentorship
+R0119,Student_119,student119@test.com,555-0119,4th,Commerce,Software Engineer,Tier 2,2,2,4,2,1,No industry connections;No mentorship;No research exposure
+R0120,Student_120,student120@test.com,555-0120,3rd,Science,Data Scientist,Tier 1,3,3,4,19,1,Lack of practical experience;No mentorship;Poor portfolio
+R0121,Student_121,student121@test.com,555-0121,4th,Commerce,Product Manager,Tier 3,2,1,4,20,0,No research exposure
+R0122,Student_122,student122@test.com,555-0122,1st,Commerce,Product Manager,Tier 3,3,3,1,1,0,Lack of practical experience;Poor portfolio;No mentorship
+R0123,Student_123,student123@test.com,555-0123,4th,Engineering,Software Engineer,Tier 2,3,3,3,19,1,No research exposure;No industry connections;Poor portfolio
+R0124,Student_124,student124@test.com,555-0124,Graduated,Engineering,Product Manager,Tier 3,2,1,1,15,1,Lack of practical experience
+R0125,Student_125,student125@test.com,555-0125,4th,Engineering,Researcher,Tier 3,4,4,4,14,1,Poor portfolio;No industry connections
+R0126,Student_126,student126@test.com,555-0126,4th,Commerce,Researcher,Tier 3,2,1,3,20,0,Poor portfolio
+R0127,Student_127,student127@test.com,555-0127,1st,Commerce,Researcher,Tier 2,2,4,3,10,0,No mentorship;Poor portfolio;No industry connections
+R0128,Student_128,student128@test.com,555-0128,4th,Science,Software Engineer,Tier 2,2,1,1,10,0,No industry connections;Lack of practical experience;Poor portfolio
+R0129,Student_129,student129@test.com,555-0129,4th,Arts,Software Engineer,Tier 2,5,1,2,6,0,No mentorship
+R0130,Student_130,student130@test.com,555-0130,1st,Arts,Software Engineer,Tier 3,3,1,4,16,1,Poor portfolio;No mentorship;No industry connections
+R0131,Student_131,student131@test.com,555-0131,4th,Science,Data Scientist,Tier 1,2,2,3,14,0,Poor portfolio;No mentorship
+R0132,Student_132,student132@test.com,555-0132,4th,Arts,Product Manager,Tier 1,2,2,2,25,0,Poor portfolio
+R0133,Student_133,student133@test.com,555-0133,Graduated,Commerce,Product Manager,Tier 2,2,1,3,6,1,Poor portfolio
+R0134,Student_134,student134@test.com,555-0134,1st,Commerce,Researcher,Tier 3,4,1,3,16,0,Lack of practical experience;No mentorship
+R0135,Student_135,student135@test.com,555-0135,3rd,Commerce,Data Scientist,Tier 2,4,3,4,0,0,No research exposure
+R0136,Student_136,student136@test.com,555-0136,Graduated,Arts,Data Scientist,Tier 2,4,2,1,0,0,Poor portfolio
+R0137,Student_137,student137@test.com,555-0137,2nd,Science,Software Engineer,Tier 2,2,3,3,15,0,Lack of practical experience;No industry connections;No research exposure
+R0138,Student_138,student138@test.com,555-0138,3rd,Science,Data Scientist,Tier 3,4,1,1,13,0,No mentorship;Poor portfolio
+R0139,Student_139,student139@test.com,555-0139,1st,Engineering,Data Scientist,Tier 2,2,4,2,15,1,Lack of practical experience;No mentorship;Poor portfolio
+R0140,Student_140,student140@test.com,555-0140,2nd,Arts,Product Manager,Tier 1,2,2,3,13,0,Lack of practical experience;Poor portfolio;No industry connections
+R0141,Student_141,student141@test.com,555-0141,Graduated,Engineering,Product Manager,Tier 2,3,1,3,11,0,No mentorship;Lack of practical experience
+R0142,Student_142,student142@test.com,555-0142,Graduated,Arts,Data Scientist,Tier 1,2,3,4,20,1,No research exposure;No industry connections;Poor portfolio
+R0143,Student_143,student143@test.com,555-0143,2nd,Science,Software Engineer,Tier 3,2,2,3,6,0,Poor portfolio;No research exposure
+R0144,Student_144,student144@test.com,555-0144,Graduated,Commerce,Researcher,Tier 1,3,1,3,11,0,Poor portfolio;No industry connections;Lack of practical experience
+R0145,Student_145,student145@test.com,555-0145,3rd,Commerce,Product Manager,Tier 3,4,2,1,22,0,No industry connections;Poor portfolio
+R0146,Student_146,student146@test.com,555-0146,1st,Commerce,Software Engineer,Tier 2,2,1,3,17,0,Lack of practical experience;No industry connections
+R0147,Student_147,student147@test.com,555-0147,3rd,Arts,Researcher,Tier 2,2,2,2,1,0,No research exposure;Poor portfolio;No industry connections
+R0148,Student_148,student148@test.com,555-0148,1st,Engineering,Product Manager,Tier 2,1,2,2,5,0,No industry connections
+R0149,Student_149,student149@test.com,555-0149,4th,Engineering,Data Scientist,Tier 1,4,1,3,1,1,No research exposure
+R0150,Student_150,student150@test.com,555-0150,3rd,Arts,Product Manager,Tier 1,2,1,4,12,0,Poor portfolio;No mentorship;Lack of practical experience
+R0151,Student_151,student151@test.com,555-0151,1st,Science,Product Manager,Tier 3,4,2,2,14,0,Poor portfolio;No research exposure;Lack of practical experience
+R0152,Student_152,student152@test.com,555-0152,1st,Science,Software Engineer,Tier 2,4,3,3,2,0,Poor portfolio;Lack of practical experience;No industry connections
+R0153,Student_153,student153@test.com,555-0153,Graduated,Arts,Researcher,Tier 1,1,1,2,16,0,No mentorship
+R0154,Student_154,student154@test.com,555-0154,2nd,Science,Product Manager,Tier 1,2,3,1,14,1,No industry connections
+R0155,Student_155,student155@test.com,555-0155,1st,Engineering,Researcher,Tier 2,3,1,5,18,1,Poor portfolio
+R0156,Student_156,student156@test.com,555-0156,1st,Commerce,Product Manager,Tier 3,2,2,2,24,1,No industry connections;No mentorship;Lack of practical experience
+R0157,Student_157,student157@test.com,555-0157,4th,Engineering,Software Engineer,Tier 3,3,1,3,11,1,Lack of practical experience;Poor portfolio
+R0158,Student_158,student158@test.com,555-0158,2nd,Arts,Data Scientist,Tier 3,3,3,4,16,1,No industry connections;No mentorship;Lack of practical experience
+R0159,Student_159,student159@test.com,555-0159,Graduated,Arts,Software Engineer,Tier 1,4,2,5,6,0,Lack of practical experience;No research exposure;Poor portfolio
+R0160,Student_160,student160@test.com,555-0160,Graduated,Arts,Researcher,Tier 2,3,4,2,12,0,Lack of practical experience;No industry connections
+R0161,Student_161,student161@test.com,555-0161,2nd,Commerce,Product Manager,Tier 2,3,3,2,10,0,No mentorship;Poor portfolio
+R0162,Student_162,student162@test.com,555-0162,Graduated,Engineering,Researcher,Tier 1,2,2,5,7,1,Lack of practical experience
+R0163,Student_163,student163@test.com,555-0163,3rd,Commerce,Product Manager,Tier 1,2,3,5,23,0,No mentorship
+R0164,Student_164,student164@test.com,555-0164,4th,Commerce,Product Manager,Tier 2,3,2,1,12,1,No mentorship;No industry connections
+R0165,Student_165,student165@test.com,555-0165,Graduated,Arts,Software Engineer,Tier 1,4,3,2,9,1,Lack of practical experience
+R0166,Student_166,student166@test.com,555-0166,4th,Science,Researcher,Tier 3,2,3,2,1,0,No industry connections
+R0167,Student_167,student167@test.com,555-0167,Graduated,Science,Researcher,Tier 3,4,1,3,19,1,No mentorship
+R0168,Student_168,student168@test.com,555-0168,1st,Commerce,Researcher,Tier 2,2,2,3,4,0,No industry connections;No research exposure;Poor portfolio
+R0169,Student_169,student169@test.com,555-0169,1st,Engineering,Software Engineer,Tier 1,1,1,2,16,0,No industry connections;Poor portfolio
+R0170,Student_170,student170@test.com,555-0170,2nd,Commerce,Researcher,Tier 3,2,4,3,17,0,No industry connections;Poor portfolio;No mentorship
+R0171,Student_171,student171@test.com,555-0171,1st,Arts,Researcher,Tier 3,4,1,4,22,1,No research exposure;Poor portfolio;No industry connections
+R0172,Student_172,student172@test.com,555-0172,Graduated,Science,Software Engineer,Tier 3,2,2,5,23,0,No mentorship
+R0173,Student_173,student173@test.com,555-0173,1st,Engineering,Data Scientist,Tier 1,3,1,2,16,1,Lack of practical experience;No mentorship
+R0174,Student_174,student174@test.com,555-0174,Graduated,Science,Researcher,Tier 3,2,2,3,5,0,Poor portfolio;No industry connections;No research exposure
+R0175,Student_175,student175@test.com,555-0175,3rd,Commerce,Data Scientist,Tier 1,4,5,2,24,0,No mentorship;No research exposure;No industry connections
+R0176,Student_176,student176@test.com,555-0176,4th,Arts,Researcher,Tier 2,4,3,2,12,0,No mentorship;Poor portfolio
+R0177,Student_177,student177@test.com,555-0177,1st,Arts,Software Engineer,Tier 2,2,2,4,17,0,Poor portfolio;No mentorship;Lack of practical experience
+R0178,Student_178,student178@test.com,555-0178,Graduated,Science,Data Scientist,Tier 1,2,1,2,20,0,Lack of practical experience
+R0179,Student_179,student179@test.com,555-0179,4th,Arts,Product Manager,Tier 1,3,5,2,5,0,No research exposure;No industry connections;Poor portfolio
+R0180,Student_180,student180@test.com,555-0180,2nd,Arts,Researcher,Tier 2,2,1,2,2,1,No industry connections
+R0181,Student_181,student181@test.com,555-0181,1st,Science,Product Manager,Tier 1,3,3,3,5,0,Lack of practical experience
+R0182,Student_182,student182@test.com,555-0182,3rd,Engineering,Researcher,Tier 2,2,2,1,16,0,No industry connections
+R0183,Student_183,student183@test.com,555-0183,4th,Arts,Data Scientist,Tier 1,4,1,2,0,0,No industry connections;No mentorship
+R0184,Student_184,student184@test.com,555-0184,2nd,Commerce,Product Manager,Tier 3,3,3,1,3,0,No research exposure
+R0185,Student_185,student185@test.com,555-0185,3rd,Science,Software Engineer,Tier 2,4,2,2,18,1,Poor portfolio
+R0186,Student_186,student186@test.com,555-0186,3rd,Science,Software Engineer,Tier 3,4,3,3,12,1,Poor portfolio;Lack of practical experience;No industry connections
+R0187,Student_187,student187@test.com,555-0187,3rd,Arts,Data Scientist,Tier 1,3,1,4,11,0,No industry connections;No research exposure;Poor portfolio
+R0188,Student_188,student188@test.com,555-0188,2nd,Science,Software Engineer,Tier 3,2,3,3,2,1,Lack of practical experience
+R0189,Student_189,student189@test.com,555-0189,Graduated,Science,Data Scientist,Tier 1,4,3,2,18,0,No industry connections
+R0190,Student_190,student190@test.com,555-0190,4th,Engineering,Product Manager,Tier 1,2,2,3,1,1,Poor portfolio;Lack of practical experience
+R0191,Student_191,student191@test.com,555-0191,4th,Arts,Software Engineer,Tier 3,3,1,3,17,0,No research exposure
+R0192,Student_192,student192@test.com,555-0192,1st,Arts,Product Manager,Tier 1,3,1,3,23,0,No research exposure;No industry connections
+R0193,Student_193,student193@test.com,555-0193,4th,Commerce,Software Engineer,Tier 3,3,3,4,3,1,No research exposure;No mentorship;Poor portfolio
+R0194,Student_194,student194@test.com,555-0194,2nd,Engineering,Software Engineer,Tier 2,1,2,4,13,0,No mentorship
+R0195,Student_195,student195@test.com,555-0195,4th,Arts,Data Scientist,Tier 2,5,2,3,21,0,Lack of practical experience;No mentorship;No industry connections
+R0196,Student_196,student196@test.com,555-0196,1st,Engineering,Software Engineer,Tier 2,2,1,2,1,0,Lack of practical experience;No research exposure;No mentorship
+R0197,Student_197,student197@test.com,555-0197,2nd,Science,Software Engineer,Tier 1,3,3,2,10,1,Poor portfolio;No mentorship;No research exposure
+R0198,Student_198,student198@test.com,555-0198,2nd,Science,Product Manager,Tier 2,3,3,1,18,0,No research exposure;No industry connections;Lack of practical experience
+R0199,Student_199,student199@test.com,555-0199,3rd,Commerce,Researcher,Tier 3,3,1,3,15,0,Poor portfolio
+R0200,Student_200,student200@test.com,555-0100,2nd,Commerce,Software Engineer,Tier 3,2,3,4,16,1,No mentorship;Poor portfolio
+R0201,Student_201,student201@test.com,555-0101,2nd,Arts,Software Engineer,Tier 2,3,2,3,8,0,No industry connections;Lack of practical experience;No research exposure
+R0202,Student_202,student202@test.com,555-0102,2nd,Science,Product Manager,Tier 1,4,1,2,0,0,Lack of practical experience
+R0203,Student_203,student203@test.com,555-0103,4th,Science,Data Scientist,Tier 2,2,2,4,17,0,Poor portfolio;No industry connections
+R0204,Student_204,student204@test.com,555-0104,Graduated,Commerce,Product Manager,Tier 1,4,1,2,24,0,Poor portfolio
+R0205,Student_205,student205@test.com,555-0105,3rd,Commerce,Software Engineer,Tier 3,2,3,4,18,0,No mentorship;No industry connections
+R0206,Student_206,student206@test.com,555-0106,3rd,Science,Product Manager,Tier 3,4,1,3,20,0,No research exposure;No industry connections
+R0207,Student_207,student207@test.com,555-0107,4th,Science,Researcher,Tier 1,4,3,4,20,1,Lack of practical experience;No industry connections;Poor portfolio
+R0208,Student_208,student208@test.com,555-0108,1st,Engineering,Product Manager,Tier 1,3,1,4,22,1,No mentorship
+R0209,Student_209,student209@test.com,555-0109,Graduated,Commerce,Researcher,Tier 1,2,1,2,15,0,No industry connections
+R0210,Student_210,student210@test.com,555-0110,Graduated,Commerce,Software Engineer,Tier 1,2,2,2,9,0,No research exposure;No mentorship;Lack of practical experience
+R0211,Student_211,student211@test.com,555-0111,1st,Science,Data Scientist,Tier 1,2,1,2,2,0,No research exposure;No mentorship
+R0212,Student_212,student212@test.com,555-0112,2nd,Arts,Software Engineer,Tier 3,4,2,4,1,1,No research exposure;No industry connections
+R0213,Student_213,student213@test.com,555-0113,Graduated,Commerce,Software Engineer,Tier 3,3,1,3,25,0,Lack of practical experience;No industry connections;No research exposure
+R0214,Student_214,student214@test.com,555-0114,2nd,Commerce,Researcher,Tier 1,4,1,3,8,1,Lack of practical experience;No mentorship;No research exposure
+R0215,Student_215,student215@test.com,555-0115,1st,Science,Data Scientist,Tier 3,1,2,3,18,0,No industry connections;Poor portfolio;No mentorship
+R0216,Student_216,student216@test.com,555-0116,2nd,Engineering,Researcher,Tier 1,4,2,4,2,0,No industry connections;No research exposure;No mentorship
+R0217,Student_217,student217@test.com,555-0117,1st,Arts,Product Manager,Tier 2,4,2,3,18,0,No industry connections
+R0218,Student_218,student218@test.com,555-0118,3rd,Science,Software Engineer,Tier 1,3,3,3,25,0,No research exposure;Poor portfolio;No mentorship
+R0219,Student_219,student219@test.com,555-0119,1st,Engineering,Software Engineer,Tier 2,4,2,1,13,0,No industry connections;No research exposure;Lack of practical experience
+R0220,Student_220,student220@test.com,555-0120,1st,Engineering,Researcher,Tier 3,4,3,3,10,0,Poor portfolio
+R0221,Student_221,student221@test.com,555-0121,4th,Commerce,Software Engineer,Tier 3,2,3,4,5,0,No mentorship
+R0222,Student_222,student222@test.com,555-0122,3rd,Arts,Researcher,Tier 2,3,2,3,8,0,No research exposure;Lack of practical experience
+R0223,Student_223,student223@test.com,555-0123,3rd,Arts,Data Scientist,Tier 3,2,2,2,9,0,Poor portfolio;No research exposure
+R0224,Student_224,student224@test.com,555-0124,3rd,Commerce,Researcher,Tier 2,4,1,3,19,0,Poor portfolio;No mentorship
+R0225,Student_225,student225@test.com,555-0125,4th,Arts,Data Scientist,Tier 2,3,2,3,18,0,No research exposure;Poor portfolio
+R0226,Student_226,student226@test.com,555-0126,4th,Arts,Software Engineer,Tier 3,4,5,1,5,1,No research exposure
+R0227,Student_227,student227@test.com,555-0127,2nd,Commerce,Researcher,Tier 3,4,2,5,4,0,Poor portfolio
+R0228,Student_228,student228@test.com,555-0128,2nd,Commerce,Product Manager,Tier 1,2,2,1,18,0,No industry connections;No research exposure;Poor portfolio
+R0229,Student_229,student229@test.com,555-0129,1st,Arts,Software Engineer,Tier 1,2,1,3,1,1,No research exposure;Poor portfolio;No mentorship
+R0230,Student_230,student230@test.com,555-0130,1st,Engineering,Software Engineer,Tier 2,3,4,4,17,1,Poor portfolio;No research exposure
+R0231,Student_231,student231@test.com,555-0131,4th,Science,Researcher,Tier 1,3,2,2,23,0,Poor portfolio;No industry connections
+R0232,Student_232,student232@test.com,555-0132,4th,Science,Product Manager,Tier 2,2,2,2,22,0,Lack of practical experience;Poor portfolio
+R0233,Student_233,student233@test.com,555-0133,1st,Engineering,Software Engineer,Tier 2,2,3,2,7,1,No industry connections
+R0234,Student_234,student234@test.com,555-0134,2nd,Arts,Product Manager,Tier 2,3,3,5,5,1,No research exposure;No industry connections;Lack of practical experience
+R0235,Student_235,student235@test.com,555-0135,Graduated,Science,Product Manager,Tier 3,3,2,2,22,0,Lack of practical experience;No mentorship;No research exposure
+R0236,Student_236,student236@test.com,555-0136,3rd,Science,Product Manager,Tier 1,3,4,3,16,0,No research exposure;No industry connections;Poor portfolio
+R0237,Student_237,student237@test.com,555-0137,1st,Arts,Researcher,Tier 2,2,2,2,19,1,No mentorship
+R0238,Student_238,student238@test.com,555-0138,3rd,Engineering,Data Scientist,Tier 2,4,3,2,4,1,No research exposure;No mentorship
+R0239,Student_239,student239@test.com,555-0139,Graduated,Commerce,Product Manager,Tier 1,3,4,1,5,1,No research exposure
+R0240,Student_240,student240@test.com,555-0140,3rd,Science,Data Scientist,Tier 2,4,1,1,11,0,No mentorship;No industry connections
+R0241,Student_241,student241@test.com,555-0141,4th,Commerce,Product Manager,Tier 3,3,1,1,18,0,Poor portfolio
+R0242,Student_242,student242@test.com,555-0142,1st,Arts,Data Scientist,Tier 3,3,4,3,18,0,No industry connections;Lack of practical experience;Poor portfolio
+R0243,Student_243,student243@test.com,555-0143,1st,Arts,Researcher,Tier 3,3,2,3,13,0,No mentorship;Poor portfolio;Lack of practical experience
+R0244,Student_244,student244@test.com,555-0144,4th,Arts,Researcher,Tier 1,1,3,2,24,0,No industry connections
+R0245,Student_245,student245@test.com,555-0145,3rd,Commerce,Data Scientist,Tier 3,4,2,3,11,1,No industry connections;No mentorship
+R0246,Student_246,student246@test.com,555-0146,3rd,Arts,Researcher,Tier 3,3,4,3,21,0,No research exposure
+R0247,Student_247,student247@test.com,555-0147,1st,Arts,Data Scientist,Tier 3,2,2,3,24,0,No mentorship;Poor portfolio
+R0248,Student_248,student248@test.com,555-0148,4th,Commerce,Product Manager,Tier 1,2,1,1,2,0,Poor portfolio;No industry connections;No mentorship
+R0249,Student_249,student249@test.com,555-0149,4th,Arts,Software Engineer,Tier 3,4,1,5,2,0,No research exposure
+R0250,Student_250,student250@test.com,555-0150,2nd,Commerce,Researcher,Tier 2,3,1,2,18,0,No research exposure;Poor portfolio;No industry connections
+R0251,Student_251,student251@test.com,555-0151,1st,Engineering,Software Engineer,Tier 3,2,3,3,14,0,No research exposure
+R0252,Student_252,student252@test.com,555-0152,2nd,Science,Researcher,Tier 1,4,1,4,2,0,Lack of practical experience;Poor portfolio
+R0253,Student_253,student253@test.com,555-0153,2nd,Engineering,Product Manager,Tier 3,4,2,2,22,0,No mentorship
+R0254,Student_254,student254@test.com,555-0154,4th,Engineering,Data Scientist,Tier 3,3,3,4,0,1,Poor portfolio;Lack of practical experience;No mentorship
+R0255,Student_255,student255@test.com,555-0155,2nd,Commerce,Software Engineer,Tier 1,4,3,1,9,0,No mentorship;No industry connections
+R0256,Student_256,student256@test.com,555-0156,1st,Engineering,Data Scientist,Tier 2,3,3,3,23,0,No industry connections;No research exposure
+R0257,Student_257,student257@test.com,555-0157,2nd,Engineering,Software Engineer,Tier 1,2,1,3,10,0,Poor portfolio
+R0258,Student_258,student258@test.com,555-0158,1st,Science,Researcher,Tier 3,5,2,5,9,1,No industry connections;No mentorship;Poor portfolio
+R0259,Student_259,student259@test.com,555-0159,4th,Arts,Software Engineer,Tier 1,3,1,2,16,0,Poor portfolio;No mentorship
+R0260,Student_260,student260@test.com,555-0160,4th,Commerce,Researcher,Tier 3,2,1,3,24,0,No industry connections
+R0261,Student_261,student261@test.com,555-0161,1st,Engineering,Researcher,Tier 1,3,2,3,20,1,No research exposure;No industry connections
+R0262,Student_262,student262@test.com,555-0162,1st,Science,Researcher,Tier 1,3,3,2,6,0,Poor portfolio;No research exposure;No industry connections
+R0263,Student_263,student263@test.com,555-0163,1st,Arts,Product Manager,Tier 3,3,2,3,3,0,No industry connections;Lack of practical experience;No mentorship
+R0264,Student_264,student264@test.com,555-0164,2nd,Engineering,Software Engineer,Tier 3,3,2,5,15,0,No industry connections;Poor portfolio;Lack of practical experience
+R0265,Student_265,student265@test.com,555-0165,3rd,Science,Researcher,Tier 3,2,4,4,8,1,No industry connections;Lack of practical experience
+R0266,Student_266,student266@test.com,555-0166,4th,Commerce,Researcher,Tier 1,2,2,3,11,0,Lack of practical experience;No industry connections
+R0267,Student_267,student267@test.com,555-0167,2nd,Engineering,Software Engineer,Tier 1,4,2,3,1,1,No research exposure;No mentorship;No industry connections
+R0268,Student_268,student268@test.com,555-0168,2nd,Commerce,Researcher,Tier 2,4,1,3,3,1,Lack of practical experience;No mentorship;No industry connections
+R0269,Student_269,student269@test.com,555-0169,Graduated,Engineering,Product Manager,Tier 1,2,2,4,2,0,Poor portfolio
+R0270,Student_270,student270@test.com,555-0170,2nd,Arts,Researcher,Tier 3,2,1,2,18,0,No industry connections
+R0271,Student_271,student271@test.com,555-0171,2nd,Science,Software Engineer,Tier 2,3,1,4,0,0,No research exposure
+R0272,Student_272,student272@test.com,555-0172,3rd,Engineering,Data Scientist,Tier 3,4,2,1,1,0,Poor portfolio;Lack of practical experience;No research exposure
+R0273,Student_273,student273@test.com,555-0173,2nd,Commerce,Researcher,Tier 2,3,2,3,12,0,No industry connections;Lack of practical experience;No mentorship
+R0274,Student_274,student274@test.com,555-0174,2nd,Science,Researcher,Tier 2,4,1,3,12,0,No research exposure;Poor portfolio
+R0275,Student_275,student275@test.com,555-0175,2nd,Engineering,Data Scientist,Tier 1,2,2,3,14,0,Lack of practical experience;Poor portfolio
+R0276,Student_276,student276@test.com,555-0176,2nd,Commerce,Researcher,Tier 2,3,3,3,5,0,No industry connections;Lack of practical experience;No research exposure
+R0277,Student_277,student277@test.com,555-0177,3rd,Science,Software Engineer,Tier 3,4,1,3,8,0,No research exposure
+R0278,Student_278,student278@test.com,555-0178,4th,Science,Software Engineer,Tier 2,4,3,2,3,0,No mentorship
+R0279,Student_279,student279@test.com,555-0179,2nd,Science,Product Manager,Tier 2,1,3,2,2,0,No mentorship
+R0280,Student_280,student280@test.com,555-0180,4th,Science,Software Engineer,Tier 2,5,4,3,1,0,No research exposure;No industry connections;No mentorship
+R0281,Student_281,student281@test.com,555-0181,1st,Commerce,Product Manager,Tier 1,5,2,1,4,0,No industry connections;No mentorship;Poor portfolio
+R0282,Student_282,student282@test.com,555-0182,3rd,Commerce,Product Manager,Tier 3,3,2,4,12,1,No mentorship;No industry connections
+R0283,Student_283,student283@test.com,555-0183,Graduated,Engineering,Product Manager,Tier 3,4,1,2,16,0,Poor portfolio;No mentorship
+R0284,Student_284,student284@test.com,555-0184,1st,Arts,Data Scientist,Tier 1,4,1,3,1,0,Poor portfolio;No mentorship;Lack of practical experience
+R0285,Student_285,student285@test.com,555-0185,1st,Science,Data Scientist,Tier 2,3,2,1,7,1,Poor portfolio;No mentorship
+R0286,Student_286,student286@test.com,555-0186,2nd,Science,Researcher,Tier 3,2,1,1,0,0,No industry connections;No mentorship;Poor portfolio
+R0287,Student_287,student287@test.com,555-0187,2nd,Commerce,Researcher,Tier 1,3,2,3,16,0,Poor portfolio
+R0288,Student_288,student288@test.com,555-0188,Graduated,Science,Data Scientist,Tier 2,3,1,3,10,0,No mentorship
+R0289,Student_289,student289@test.com,555-0189,Graduated,Science,Software Engineer,Tier 3,1,1,4,12,1,Poor portfolio;No industry connections
+R0290,Student_290,student290@test.com,555-0190,2nd,Science,Product Manager,Tier 3,4,2,4,5,0,No industry connections
+R0291,Student_291,student291@test.com,555-0191,2nd,Commerce,Researcher,Tier 3,3,2,3,18,0,Lack of practical experience;No mentorship;Poor portfolio
+R0292,Student_292,student292@test.com,555-0192,3rd,Science,Software Engineer,Tier 2,4,3,1,7,0,No mentorship;Lack of practical experience
+R0293,Student_293,student293@test.com,555-0193,3rd,Commerce,Software Engineer,Tier 2,4,1,3,23,0,No research exposure
+R0294,Student_294,student294@test.com,555-0194,4th,Commerce,Data Scientist,Tier 2,2,2,4,17,0,No research exposure
+R0295,Student_295,student295@test.com,555-0195,Graduated,Science,Data Scientist,Tier 2,4,2,4,3,1,No mentorship;No research exposure
+R0296,Student_296,student296@test.com,555-0196,2nd,Engineering,Software Engineer,Tier 2,2,1,3,15,0,No mentorship;No research exposure
+R0297,Student_297,student297@test.com,555-0197,2nd,Engineering,Software Engineer,Tier 2,4,1,3,23,1,Poor portfolio;No industry connections
+R0298,Student_298,student298@test.com,555-0198,2nd,Engineering,Software Engineer,Tier 2,1,1,1,4,0,Lack of practical experience;No research exposure
+R0299,Student_299,student299@test.com,555-0199,1st,Arts,Product Manager,Tier 1,3,1,3,15,0,No research exposure;No industry connections
+R0300,Student_300,student300@test.com,555-0100,4th,Arts,Software Engineer,Tier 3,2,2,1,12,0,No research exposure
+R0301,Student_301,student301@test.com,555-0101,1st,Arts,Product Manager,Tier 2,5,1,2,22,0,Poor portfolio
+R0302,Student_302,student302@test.com,555-0102,Graduated,Commerce,Data Scientist,Tier 3,4,2,2,16,0,No research exposure;No mentorship;No industry connections
+R0303,Student_303,student303@test.com,555-0103,3rd,Engineering,Product Manager,Tier 3,3,1,4,19,1,No research exposure
+R0304,Student_304,student304@test.com,555-0104,2nd,Science,Data Scientist,Tier 1,4,3,2,21,0,No mentorship
+R0305,Student_305,student305@test.com,555-0105,Graduated,Arts,Researcher,Tier 3,3,1,3,10,0,No research exposure;Lack of practical experience;Poor portfolio
+R0306,Student_306,student306@test.com,555-0106,Graduated,Commerce,Software Engineer,Tier 2,4,3,3,18,0,No industry connections
+R0307,Student_307,student307@test.com,555-0107,1st,Arts,Researcher,Tier 2,4,1,3,5,0,No mentorship;No research exposure
+R0308,Student_308,student308@test.com,555-0108,1st,Commerce,Researcher,Tier 3,3,4,3,8,0,Poor portfolio
+R0309,Student_309,student309@test.com,555-0109,3rd,Arts,Researcher,Tier 2,2,3,4,9,0,Poor portfolio;No research exposure
+R0310,Student_310,student310@test.com,555-0110,Graduated,Engineering,Data Scientist,Tier 2,3,4,2,23,0,Poor portfolio;Lack of practical experience;No industry connections
+R0311,Student_311,student311@test.com,555-0111,2nd,Engineering,Researcher,Tier 3,3,3,2,0,0,No mentorship
+R0312,Student_312,student312@test.com,555-0112,1st,Science,Software Engineer,Tier 2,4,2,1,6,0,No research exposure;No industry connections
+R0313,Student_313,student313@test.com,555-0113,1st,Engineering,Data Scientist,Tier 2,3,3,1,17,0,No mentorship;Poor portfolio
+R0314,Student_314,student314@test.com,555-0114,1st,Arts,Software Engineer,Tier 2,5,3,2,24,0,No mentorship
+R0315,Student_315,student315@test.com,555-0115,2nd,Arts,Product Manager,Tier 3,3,2,4,4,1,Lack of practical experience;No mentorship;No research exposure
+R0316,Student_316,student316@test.com,555-0116,Graduated,Arts,Researcher,Tier 2,5,1,3,14,0,No research exposure
+R0317,Student_317,student317@test.com,555-0117,3rd,Commerce,Software Engineer,Tier 1,3,3,1,20,1,Poor portfolio;No industry connections;No research exposure
+R0318,Student_318,student318@test.com,555-0118,1st,Commerce,Software Engineer,Tier 2,4,2,2,8,0,Poor portfolio;No mentorship;Lack of practical experience
+R0319,Student_319,student319@test.com,555-0119,Graduated,Science,Software Engineer,Tier 3,3,2,2,15,0,No research exposure;No industry connections
+R0320,Student_320,student320@test.com,555-0120,4th,Engineering,Data Scientist,Tier 2,3,1,3,17,0,Poor portfolio;No industry connections;Lack of practical experience
+R0321,Student_321,student321@test.com,555-0121,Graduated,Science,Researcher,Tier 1,3,2,1,5,0,Lack of practical experience;No mentorship;No research exposure
+R0322,Student_322,student322@test.com,555-0122,2nd,Arts,Product Manager,Tier 2,2,3,1,14,0,Lack of practical experience;No industry connections
+R0323,Student_323,student323@test.com,555-0123,4th,Science,Software Engineer,Tier 3,4,4,2,4,0,No research exposure;No industry connections
+R0324,Student_324,student324@test.com,555-0124,2nd,Arts,Data Scientist,Tier 1,2,2,3,5,0,Lack of practical experience;No industry connections;No mentorship
+R0325,Student_325,student325@test.com,555-0125,3rd,Science,Data Scientist,Tier 3,2,2,3,19,0,No research exposure;No industry connections;No mentorship
+R0326,Student_326,student326@test.com,555-0126,4th,Commerce,Software Engineer,Tier 1,1,2,2,0,0,No mentorship;Lack of practical experience;Poor portfolio
+R0327,Student_327,student327@test.com,555-0127,1st,Science,Data Scientist,Tier 3,2,3,3,9,0,Lack of practical experience
+R0328,Student_328,student328@test.com,555-0128,3rd,Arts,Product Manager,Tier 3,2,2,3,13,0,No research exposure;Poor portfolio
+R0329,Student_329,student329@test.com,555-0129,2nd,Science,Product Manager,Tier 1,5,3,3,18,1,Lack of practical experience
+R0330,Student_330,student330@test.com,555-0130,3rd,Engineering,Product Manager,Tier 3,3,3,4,1,1,Lack of practical experience;No industry connections;No research exposure
+R0331,Student_331,student331@test.com,555-0131,1st,Commerce,Product Manager,Tier 2,4,2,3,21,0,No research exposure;Lack of practical experience
+R0332,Student_332,student332@test.com,555-0132,Graduated,Arts,Data Scientist,Tier 2,3,2,2,23,1,Poor portfolio
+R0333,Student_333,student333@test.com,555-0133,1st,Engineering,Product Manager,Tier 1,2,3,1,11,0,No mentorship;Lack of practical experience
+R0334,Student_334,student334@test.com,555-0134,Graduated,Commerce,Data Scientist,Tier 3,4,2,1,0,0,Lack of practical experience;No industry connections;Poor portfolio
+R0335,Student_335,student335@test.com,555-0135,4th,Science,Software Engineer,Tier 3,4,3,4,14,0,No research exposure;Lack of practical experience
+R0336,Student_336,student336@test.com,555-0136,1st,Science,Software Engineer,Tier 2,2,3,2,13,0,Lack of practical experience
+R0337,Student_337,student337@test.com,555-0137,1st,Science,Data Scientist,Tier 2,4,1,2,2,0,No mentorship;Lack of practical experience
+R0338,Student_338,student338@test.com,555-0138,4th,Commerce,Product Manager,Tier 2,4,1,1,15,0,No mentorship;Lack of practical experience;No research exposure
+R0339,Student_339,student339@test.com,555-0139,1st,Science,Software Engineer,Tier 2,2,1,3,19,0,No industry connections;Lack of practical experience
+R0340,Student_340,student340@test.com,555-0140,2nd,Commerce,Product Manager,Tier 1,4,1,2,2,0,Poor portfolio;Lack of practical experience;No industry connections
+R0341,Student_341,student341@test.com,555-0141,Graduated,Science,Researcher,Tier 3,3,3,1,7,0,No research exposure;No mentorship
+R0342,Student_342,student342@test.com,555-0142,Graduated,Engineering,Software Engineer,Tier 3,4,2,3,15,0,Lack of practical experience
+R0343,Student_343,student343@test.com,555-0143,4th,Arts,Data Scientist,Tier 2,3,2,3,12,0,No research exposure
+R0344,Student_344,student344@test.com,555-0144,4th,Commerce,Software Engineer,Tier 2,3,2,4,15,1,No research exposure
+R0345,Student_345,student345@test.com,555-0145,4th,Engineering,Software Engineer,Tier 1,1,1,3,17,0,No research exposure;Poor portfolio;No mentorship
+R0346,Student_346,student346@test.com,555-0146,1st,Science,Product Manager,Tier 2,2,1,1,15,0,No research exposure;Lack of practical experience;No industry connections
+R0347,Student_347,student347@test.com,555-0147,2nd,Engineering,Researcher,Tier 2,1,2,4,22,1,No mentorship
+R0348,Student_348,student348@test.com,555-0148,4th,Science,Product Manager,Tier 1,3,3,4,3,0,No research exposure
+R0349,Student_349,student349@test.com,555-0149,2nd,Arts,Software Engineer,Tier 2,3,2,4,14,0,No industry connections;No mentorship;No research exposure
+R0350,Student_350,student350@test.com,555-0150,1st,Engineering,Product Manager,Tier 3,2,2,2,5,1,No mentorship
+R0351,Student_351,student351@test.com,555-0151,1st,Commerce,Researcher,Tier 3,2,1,4,7,0,Poor portfolio;No industry connections
+R0352,Student_352,student352@test.com,555-0152,4th,Science,Data Scientist,Tier 2,1,1,2,16,0,No industry connections;Poor portfolio;No research exposure
+R0353,Student_353,student353@test.com,555-0153,Graduated,Science,Data Scientist,Tier 1,2,1,2,22,0,No industry connections;Poor portfolio;No research exposure
+R0354,Student_354,student354@test.com,555-0154,1st,Arts,Product Manager,Tier 3,2,1,4,13,0,Lack of practical experience;No industry connections
+R0355,Student_355,student355@test.com,555-0155,1st,Commerce,Data Scientist,Tier 1,2,2,2,9,0,Lack of practical experience
+R0356,Student_356,student356@test.com,555-0156,3rd,Science,Software Engineer,Tier 2,3,2,2,21,1,No industry connections
+R0357,Student_357,student357@test.com,555-0157,4th,Science,Researcher,Tier 3,1,1,2,21,0,Lack of practical experience;No industry connections;Poor portfolio
+R0358,Student_358,student358@test.com,555-0158,3rd,Science,Product Manager,Tier 1,4,1,4,20,0,No industry connections;No mentorship;Poor portfolio
+R0359,Student_359,student359@test.com,555-0159,2nd,Arts,Product Manager,Tier 1,3,4,3,3,0,No research exposure
+R0360,Student_360,student360@test.com,555-0160,3rd,Arts,Data Scientist,Tier 1,2,2,2,10,0,No mentorship;Lack of practical experience;No research exposure
+R0361,Student_361,student361@test.com,555-0161,3rd,Engineering,Researcher,Tier 2,2,3,3,16,0,No industry connections
+R0362,Student_362,student362@test.com,555-0162,1st,Science,Product Manager,Tier 3,3,2,3,7,0,Poor portfolio;No industry connections;No mentorship
+R0363,Student_363,student363@test.com,555-0163,3rd,Science,Product Manager,Tier 3,1,3,4,14,1,No industry connections;No mentorship;Lack of practical experience
+R0364,Student_364,student364@test.com,555-0164,3rd,Commerce,Software Engineer,Tier 2,3,4,3,0,1,No industry connections;No research exposure
+R0365,Student_365,student365@test.com,555-0165,4th,Engineering,Researcher,Tier 3,4,3,3,24,1,Lack of practical experience;No industry connections;No research exposure
+R0366,Student_366,student366@test.com,555-0166,2nd,Commerce,Software Engineer,Tier 1,1,2,2,23,0,Lack of practical experience;No mentorship;No industry connections
+R0367,Student_367,student367@test.com,555-0167,4th,Arts,Software Engineer,Tier 1,3,2,3,7,0,No research exposure;No industry connections
+R0368,Student_368,student368@test.com,555-0168,4th,Commerce,Researcher,Tier 1,3,2,3,0,1,No industry connections
+R0369,Student_369,student369@test.com,555-0169,1st,Engineering,Researcher,Tier 3,4,2,4,24,0,No research exposure;Lack of practical experience
+R0370,Student_370,student370@test.com,555-0170,4th,Science,Data Scientist,Tier 1,3,1,3,17,0,No mentorship;Poor portfolio;No research exposure
+R0371,Student_371,student371@test.com,555-0171,3rd,Engineering,Data Scientist,Tier 1,3,1,4,2,0,Poor portfolio
+R0372,Student_372,student372@test.com,555-0172,2nd,Commerce,Data Scientist,Tier 1,4,3,3,8,0,No mentorship
+R0373,Student_373,student373@test.com,555-0173,Graduated,Engineering,Product Manager,Tier 3,3,2,2,23,1,Poor portfolio;No industry connections
+R0374,Student_374,student374@test.com,555-0174,2nd,Science,Software Engineer,Tier 2,1,1,3,10,0,Poor portfolio;No industry connections
+R0375,Student_375,student375@test.com,555-0175,Graduated,Science,Researcher,Tier 2,3,1,4,22,0,Poor portfolio;No mentorship
+R0376,Student_376,student376@test.com,555-0176,3rd,Commerce,Product Manager,Tier 2,2,3,4,17,1,No industry connections
+R0377,Student_377,student377@test.com,555-0177,1st,Arts,Data Scientist,Tier 3,5,1,3,0,1,Lack of practical experience;No research exposure;Poor portfolio
+R0378,Student_378,student378@test.com,555-0178,2nd,Engineering,Researcher,Tier 3,4,1,2,20,0,No research exposure;No mentorship
+R0379,Student_379,student379@test.com,555-0179,Graduated,Arts,Data Scientist,Tier 2,3,2,2,7,1,No mentorship;No industry connections;No research exposure
+R0380,Student_380,student380@test.com,555-0180,2nd,Science,Data Scientist,Tier 3,3,1,3,1,0,No mentorship;Lack of practical experience
+R0381,Student_381,student381@test.com,555-0181,3rd,Arts,Data Scientist,Tier 1,2,2,2,14,0,Poor portfolio
+R0382,Student_382,student382@test.com,555-0182,1st,Arts,Researcher,Tier 3,2,2,2,20,0,No industry connections;Lack of practical experience
+R0383,Student_383,student383@test.com,555-0183,Graduated,Arts,Product Manager,Tier 1,3,3,2,15,1,No industry connections
+R0384,Student_384,student384@test.com,555-0184,2nd,Commerce,Data Scientist,Tier 1,4,3,2,6,0,No mentorship
+R0385,Student_385,student385@test.com,555-0185,3rd,Engineering,Data Scientist,Tier 2,2,1,3,6,1,No research exposure
+R0386,Student_386,student386@test.com,555-0186,1st,Science,Software Engineer,Tier 1,2,2,3,20,1,No industry connections
+R0387,Student_387,student387@test.com,555-0187,2nd,Engineering,Data Scientist,Tier 2,2,1,4,20,1,Poor portfolio;Lack of practical experience;No research exposure
+R0388,Student_388,student388@test.com,555-0188,4th,Commerce,Product Manager,Tier 1,3,3,4,4,1,No industry connections;Poor portfolio;Lack of practical experience
+R0389,Student_389,student389@test.com,555-0189,3rd,Commerce,Software Engineer,Tier 1,3,3,2,16,0,No industry connections
+R0390,Student_390,student390@test.com,555-0190,1st,Science,Product Manager,Tier 3,1,1,3,17,1,Lack of practical experience
+R0391,Student_391,student391@test.com,555-0191,4th,Science,Software Engineer,Tier 3,2,2,2,16,0,No research exposure
+R0392,Student_392,student392@test.com,555-0192,4th,Arts,Software Engineer,Tier 2,4,3,3,7,0,No industry connections;No research exposure
+R0393,Student_393,student393@test.com,555-0193,3rd,Science,Software Engineer,Tier 3,3,1,2,12,0,Poor portfolio;No research exposure;No mentorship
+R0394,Student_394,student394@test.com,555-0194,1st,Science,Product Manager,Tier 3,2,2,2,17,0,Poor portfolio;No industry connections;No research exposure
+R0395,Student_395,student395@test.com,555-0195,4th,Science,Product Manager,Tier 3,2,1,3,8,0,Poor portfolio;No research exposure;No industry connections
+R0396,Student_396,student396@test.com,555-0196,2nd,Engineering,Data Scientist,Tier 2,4,1,3,3,0,No research exposure;Poor portfolio;No industry connections
+R0397,Student_397,student397@test.com,555-0197,Graduated,Engineering,Data Scientist,Tier 2,3,2,3,19,0,Lack of practical experience
+R0398,Student_398,student398@test.com,555-0198,3rd,Science,Researcher,Tier 1,2,1,3,12,1,No industry connections;Poor portfolio;No research exposure
+R0399,Student_399,student399@test.com,555-0199,Graduated,Engineering,Data Scientist,Tier 3,3,3,2,16,0,Lack of practical experience
+R0400,Student_400,student400@test.com,555-0100,Graduated,Science,Data Scientist,Tier 3,4,2,1,0,0,Poor portfolio
+R0401,Student_401,student401@test.com,555-0101,4th,Arts,Product Manager,Tier 2,2,2,1,2,1,No industry connections;Poor portfolio
+R0402,Student_402,student402@test.com,555-0102,3rd,Arts,Data Scientist,Tier 3,4,2,2,12,1,Poor portfolio
+R0403,Student_403,student403@test.com,555-0103,2nd,Commerce,Software Engineer,Tier 3,3,4,3,8,1,Poor portfolio;No research exposure;No mentorship
+R0404,Student_404,student404@test.com,555-0104,Graduated,Commerce,Data Scientist,Tier 2,4,2,2,14,1,No research exposure
+R0405,Student_405,student405@test.com,555-0105,1st,Arts,Software Engineer,Tier 2,1,2,1,10,0,No industry connections;Lack of practical experience
+R0406,Student_406,student406@test.com,555-0106,3rd,Science,Researcher,Tier 1,2,3,2,10,0,No mentorship;No research exposure;No industry connections
+R0407,Student_407,student407@test.com,555-0107,3rd,Science,Researcher,Tier 1,3,3,4,6,1,No mentorship;Poor portfolio;Lack of practical experience
+R0408,Student_408,student408@test.com,555-0108,2nd,Science,Data Scientist,Tier 3,2,3,2,3,0,No research exposure;Lack of practical experience;Poor portfolio
+R0409,Student_409,student409@test.com,555-0109,1st,Commerce,Researcher,Tier 3,5,3,2,8,0,No industry connections
+R0410,Student_410,student410@test.com,555-0110,3rd,Commerce,Data Scientist,Tier 3,4,3,2,13,0,Lack of practical experience;Poor portfolio;No mentorship
+R0411,Student_411,student411@test.com,555-0111,2nd,Commerce,Software Engineer,Tier 3,3,3,2,12,1,Poor portfolio
+R0412,Student_412,student412@test.com,555-0112,3rd,Arts,Data Scientist,Tier 3,3,3,3,19,0,No mentorship;No research exposure
+R0413,Student_413,student413@test.com,555-0113,4th,Science,Product Manager,Tier 3,2,1,3,18,0,No mentorship;Lack of practical experience;Poor portfolio
+R0414,Student_414,student414@test.com,555-0114,3rd,Science,Product Manager,Tier 2,4,4,3,23,0,Lack of practical experience;No mentorship
+R0415,Student_415,student415@test.com,555-0115,4th,Commerce,Data Scientist,Tier 3,3,2,1,17,1,No research exposure
+R0416,Student_416,student416@test.com,555-0116,1st,Science,Software Engineer,Tier 1,3,1,2,20,0,Poor portfolio;No industry connections
+R0417,Student_417,student417@test.com,555-0117,3rd,Arts,Researcher,Tier 2,3,4,4,6,1,Poor portfolio;No industry connections
+R0418,Student_418,student418@test.com,555-0118,Graduated,Commerce,Product Manager,Tier 1,2,3,1,20,0,Poor portfolio
+R0419,Student_419,student419@test.com,555-0119,4th,Commerce,Software Engineer,Tier 1,4,2,3,8,1,No research exposure;Poor portfolio;No mentorship
+R0420,Student_420,student420@test.com,555-0120,3rd,Commerce,Product Manager,Tier 1,3,2,3,23,0,Poor portfolio;Lack of practical experience;No research exposure
+R0421,Student_421,student421@test.com,555-0121,2nd,Commerce,Software Engineer,Tier 1,4,2,4,12,1,Poor portfolio
+R0422,Student_422,student422@test.com,555-0122,Graduated,Science,Software Engineer,Tier 3,4,2,2,7,0,Poor portfolio;No research exposure;No industry connections
+R0423,Student_423,student423@test.com,555-0123,2nd,Science,Data Scientist,Tier 1,3,4,3,14,1,No industry connections;No research exposure
+R0424,Student_424,student424@test.com,555-0124,2nd,Science,Product Manager,Tier 3,3,1,1,13,1,No industry connections;Poor portfolio;No mentorship
+R0425,Student_425,student425@test.com,555-0125,4th,Science,Software Engineer,Tier 2,4,2,2,16,0,Poor portfolio;No research exposure
+R0426,Student_426,student426@test.com,555-0126,Graduated,Engineering,Product Manager,Tier 2,2,4,3,25,0,No mentorship;Lack of practical experience;Poor portfolio
+R0427,Student_427,student427@test.com,555-0127,3rd,Science,Product Manager,Tier 3,3,2,2,12,0,Lack of practical experience;No research exposure
+R0428,Student_428,student428@test.com,555-0128,2nd,Arts,Researcher,Tier 3,3,1,2,13,0,No mentorship
+R0429,Student_429,student429@test.com,555-0129,2nd,Arts,Software Engineer,Tier 3,3,2,1,10,0,Lack of practical experience
+R0430,Student_430,student430@test.com,555-0130,Graduated,Engineering,Data Scientist,Tier 1,3,3,1,14,0,Lack of practical experience
+R0431,Student_431,student431@test.com,555-0131,2nd,Engineering,Product Manager,Tier 1,4,3,2,14,0,Lack of practical experience;No mentorship
+R0432,Student_432,student432@test.com,555-0132,1st,Arts,Product Manager,Tier 1,2,2,1,8,0,Lack of practical experience
+R0433,Student_433,student433@test.com,555-0133,2nd,Commerce,Product Manager,Tier 1,3,1,2,16,0,No research exposure;Poor portfolio
+R0434,Student_434,student434@test.com,555-0134,3rd,Science,Software Engineer,Tier 3,4,2,3,8,0,Poor portfolio;No mentorship;No research exposure
+R0435,Student_435,student435@test.com,555-0135,1st,Science,Software Engineer,Tier 1,2,2,2,3,0,Lack of practical experience
+R0436,Student_436,student436@test.com,555-0136,1st,Commerce,Data Scientist,Tier 2,3,1,3,15,0,No industry connections;Poor portfolio;No research exposure
+R0437,Student_437,student437@test.com,555-0137,1st,Engineering,Researcher,Tier 3,4,3,4,10,0,No mentorship;Lack of practical experience
+R0438,Student_438,student438@test.com,555-0138,4th,Arts,Data Scientist,Tier 2,4,1,3,14,1,No industry connections;No research exposure
+R0439,Student_439,student439@test.com,555-0139,2nd,Science,Researcher,Tier 2,2,3,3,17,0,No industry connections
+R0440,Student_440,student440@test.com,555-0140,2nd,Commerce,Researcher,Tier 2,2,2,1,24,1,No mentorship;Lack of practical experience
+R0441,Student_441,student441@test.com,555-0141,Graduated,Arts,Data Scientist,Tier 2,2,1,2,16,0,No mentorship;Poor portfolio;No industry connections
+R0442,Student_442,student442@test.com,555-0142,4th,Arts,Software Engineer,Tier 1,3,2,2,4,0,No mentorship
+R0443,Student_443,student443@test.com,555-0143,1st,Commerce,Data Scientist,Tier 1,3,1,4,19,0,Poor portfolio
+R0444,Student_444,student444@test.com,555-0144,2nd,Engineering,Software Engineer,Tier 1,2,1,3,2,0,Lack of practical experience;Poor portfolio;No research exposure
+R0445,Student_445,student445@test.com,555-0145,4th,Arts,Software Engineer,Tier 3,3,3,2,6,1,Lack of practical experience
+R0446,Student_446,student446@test.com,555-0146,2nd,Commerce,Data Scientist,Tier 1,2,2,3,20,0,No industry connections;No research exposure;Poor portfolio
+R0447,Student_447,student447@test.com,555-0147,1st,Arts,Product Manager,Tier 3,1,2,1,12,1,No mentorship;No research exposure
+R0448,Student_448,student448@test.com,555-0148,3rd,Arts,Researcher,Tier 2,2,3,4,23,0,No mentorship;No industry connections;No research exposure
+R0449,Student_449,student449@test.com,555-0149,Graduated,Arts,Researcher,Tier 2,3,2,2,19,0,No mentorship;Poor portfolio;Lack of practical experience
+R0450,Student_450,student450@test.com,555-0150,3rd,Science,Data Scientist,Tier 2,5,2,1,22,0,No industry connections;No mentorship;Lack of practical experience
+R0451,Student_451,student451@test.com,555-0151,1st,Commerce,Researcher,Tier 1,4,1,4,25,0,No industry connections
+R0452,Student_452,student452@test.com,555-0152,4th,Science,Software Engineer,Tier 3,2,3,2,15,1,No industry connections
+R0453,Student_453,student453@test.com,555-0153,3rd,Engineering,Product Manager,Tier 1,1,1,3,13,0,No mentorship
+R0454,Student_454,student454@test.com,555-0154,Graduated,Engineering,Product Manager,Tier 1,3,2,4,17,1,No industry connections;No mentorship
+R0455,Student_455,student455@test.com,555-0155,2nd,Engineering,Product Manager,Tier 2,2,3,3,25,0,No mentorship
+R0456,Student_456,student456@test.com,555-0156,3rd,Engineering,Product Manager,Tier 3,3,1,3,8,0,No industry connections;No research exposure
+R0457,Student_457,student457@test.com,555-0157,2nd,Science,Product Manager,Tier 3,4,1,3,23,1,No mentorship
+R0458,Student_458,student458@test.com,555-0158,1st,Arts,Product Manager,Tier 2,2,1,2,3,0,Poor portfolio;No industry connections
+R0459,Student_459,student459@test.com,555-0159,2nd,Arts,Researcher,Tier 3,2,2,2,25,0,No mentorship;No research exposure;Lack of practical experience
+R0460,Student_460,student460@test.com,555-0160,2nd,Science,Researcher,Tier 1,3,1,4,3,1,No industry connections
+R0461,Student_461,student461@test.com,555-0161,2nd,Arts,Software Engineer,Tier 2,3,2,2,6,1,No mentorship
+R0462,Student_462,student462@test.com,555-0162,Graduated,Arts,Product Manager,Tier 3,3,1,3,22,0,No industry connections;Lack of practical experience
+R0463,Student_463,student463@test.com,555-0163,3rd,Science,Software Engineer,Tier 2,4,2,3,0,0,Poor portfolio;No industry connections
+R0464,Student_464,student464@test.com,555-0164,1st,Engineering,Researcher,Tier 3,1,4,4,16,1,No research exposure;Lack of practical experience
+R0465,Student_465,student465@test.com,555-0165,2nd,Science,Product Manager,Tier 3,3,2,3,10,0,No mentorship;Lack of practical experience
+R0466,Student_466,student466@test.com,555-0166,3rd,Arts,Researcher,Tier 3,2,5,4,16,0,Poor portfolio
+R0467,Student_467,student467@test.com,555-0167,4th,Engineering,Researcher,Tier 1,5,2,4,12,1,No mentorship;No industry connections
+R0468,Student_468,student468@test.com,555-0168,4th,Arts,Researcher,Tier 2,2,2,3,4,1,No mentorship;No industry connections;No research exposure
+R0469,Student_469,student469@test.com,555-0169,Graduated,Science,Product Manager,Tier 1,2,2,2,17,0,Poor portfolio
+R0470,Student_470,student470@test.com,555-0170,2nd,Engineering,Researcher,Tier 2,4,2,3,23,0,No mentorship
+R0471,Student_471,student471@test.com,555-0171,1st,Science,Data Scientist,Tier 1,2,2,3,7,1,No mentorship
+R0472,Student_472,student472@test.com,555-0172,1st,Arts,Software Engineer,Tier 3,3,1,4,19,0,Poor portfolio;No mentorship;No research exposure
+R0473,Student_473,student473@test.com,555-0173,4th,Commerce,Data Scientist,Tier 1,3,2,3,8,0,No mentorship
+R0474,Student_474,student474@test.com,555-0174,2nd,Engineering,Data Scientist,Tier 2,4,1,2,10,0,No research exposure
+R0475,Student_475,student475@test.com,555-0175,4th,Engineering,Product Manager,Tier 3,4,2,2,16,0,Lack of practical experience;No research exposure;No mentorship
+R0476,Student_476,student476@test.com,555-0176,1st,Science,Product Manager,Tier 3,4,2,1,24,0,Poor portfolio
+R0477,Student_477,student477@test.com,555-0177,4th,Commerce,Researcher,Tier 2,3,2,2,16,0,No research exposure;Lack of practical experience
+R0478,Student_478,student478@test.com,555-0178,Graduated,Engineering,Data Scientist,Tier 3,4,1,2,4,0,Poor portfolio;No research exposure
+R0479,Student_479,student479@test.com,555-0179,1st,Science,Product Manager,Tier 3,2,2,4,10,1,Lack of practical experience;No industry connections;No research exposure
+R0480,Student_480,student480@test.com,555-0180,4th,Arts,Software Engineer,Tier 3,3,1,2,16,1,No research exposure
+R0481,Student_481,student481@test.com,555-0181,Graduated,Commerce,Software Engineer,Tier 1,2,2,4,4,1,Lack of practical experience;No research exposure;No mentorship
+R0482,Student_482,student482@test.com,555-0182,3rd,Commerce,Researcher,Tier 3,4,4,3,6,0,Poor portfolio;Lack of practical experience;No mentorship
+R0483,Student_483,student483@test.com,555-0183,4th,Commerce,Software Engineer,Tier 3,3,1,3,13,0,No industry connections
+R0484,Student_484,student484@test.com,555-0184,Graduated,Engineering,Data Scientist,Tier 3,3,3,2,6,0,No mentorship
+R0485,Student_485,student485@test.com,555-0185,1st,Arts,Software Engineer,Tier 1,2,2,3,2,0,No research exposure
+R0486,Student_486,student486@test.com,555-0186,2nd,Science,Researcher,Tier 3,2,1,2,18,1,No research exposure
+R0487,Student_487,student487@test.com,555-0187,Graduated,Arts,Software Engineer,Tier 1,2,3,3,24,0,Lack of practical experience;Poor portfolio;No mentorship
+R0488,Student_488,student488@test.com,555-0188,2nd,Engineering,Researcher,Tier 2,2,2,2,22,0,Lack of practical experience;No industry connections;Poor portfolio
+R0489,Student_489,student489@test.com,555-0189,Graduated,Engineering,Product Manager,Tier 3,1,3,2,19,0,No industry connections;Poor portfolio
+R0490,Student_490,student490@test.com,555-0190,2nd,Commerce,Product Manager,Tier 2,4,1,2,7,0,Lack of practical experience
+R0491,Student_491,student491@test.com,555-0191,1st,Engineering,Product Manager,Tier 3,1,2,3,13,0,Poor portfolio
+R0492,Student_492,student492@test.com,555-0192,3rd,Science,Software Engineer,Tier 3,3,3,4,25,1,Poor portfolio;No industry connections
+R0493,Student_493,student493@test.com,555-0193,1st,Engineering,Researcher,Tier 2,4,4,2,6,0,No research exposure;No industry connections
+R0494,Student_494,student494@test.com,555-0194,1st,Science,Product Manager,Tier 1,2,1,2,17,0,No research exposure;Lack of practical experience
+R0495,Student_495,student495@test.com,555-0195,Graduated,Arts,Researcher,Tier 3,3,1,2,25,0,No mentorship
+R0496,Student_496,student496@test.com,555-0196,3rd,Engineering,Researcher,Tier 2,2,1,1,18,1,No mentorship;Lack of practical experience
+R0497,Student_497,student497@test.com,555-0197,3rd,Arts,Software Engineer,Tier 2,4,2,1,9,0,Poor portfolio;No mentorship;Lack of practical experience
+R0498,Student_498,student498@test.com,555-0198,3rd,Engineering,Data Scientist,Tier 1,3,2,4,15,1,Poor portfolio
+R0499,Student_499,student499@test.com,555-0199,4th,Arts,Researcher,Tier 1,3,3,3,4,0,Lack of practical experience;No research exposure;No mentorship
+R0500,Student_500,student500@test.com,555-0100,Graduated,Engineering,Software Engineer,Tier 2,4,1,2,19,0,No research exposure;Lack of practical experience
+R0501,Student_501,student501@test.com,555-0101,1st,Arts,Software Engineer,Tier 3,2,2,3,9,0,Poor portfolio;No research exposure;No industry connections
+R0502,Student_502,student502@test.com,555-0102,1st,Arts,Data Scientist,Tier 1,3,2,3,19,1,Lack of practical experience;No mentorship;Poor portfolio
+R0503,Student_503,student503@test.com,555-0103,3rd,Arts,Researcher,Tier 1,2,1,5,9,0,No research exposure;Lack of practical experience;No industry connections
+R0504,Student_504,student504@test.com,555-0104,1st,Commerce,Software Engineer,Tier 1,3,2,2,12,0,No industry connections;No research exposure;Poor portfolio
+R0505,Student_505,student505@test.com,555-0105,3rd,Arts,Researcher,Tier 1,2,1,3,24,0,No mentorship;Lack of practical experience;Poor portfolio
+R0506,Student_506,student506@test.com,555-0106,4th,Engineering,Product Manager,Tier 2,2,1,2,14,0,No mentorship
+R0507,Student_507,student507@test.com,555-0107,2nd,Arts,Researcher,Tier 2,5,1,4,10,0,Lack of practical experience;No industry connections
+R0508,Student_508,student508@test.com,555-0108,4th,Engineering,Researcher,Tier 2,2,2,5,24,0,No industry connections;No mentorship;Poor portfolio
+R0509,Student_509,student509@test.com,555-0109,1st,Commerce,Software Engineer,Tier 2,3,2,2,18,0,No industry connections
+R0510,Student_510,student510@test.com,555-0110,2nd,Science,Product Manager,Tier 2,4,2,4,22,0,No industry connections;Poor portfolio
+R0511,Student_511,student511@test.com,555-0111,Graduated,Science,Data Scientist,Tier 3,2,2,2,3,1,No research exposure;Poor portfolio;No industry connections
+R0512,Student_512,student512@test.com,555-0112,1st,Commerce,Data Scientist,Tier 2,3,2,1,3,1,Poor portfolio;No research exposure
+R0513,Student_513,student513@test.com,555-0113,1st,Engineering,Data Scientist,Tier 1,2,2,4,4,1,No industry connections;Poor portfolio
+R0514,Student_514,student514@test.com,555-0114,4th,Commerce,Data Scientist,Tier 1,3,1,2,18,0,Poor portfolio;Lack of practical experience
+R0515,Student_515,student515@test.com,555-0115,Graduated,Engineering,Product Manager,Tier 1,3,4,3,0,1,Lack of practical experience;Poor portfolio
+R0516,Student_516,student516@test.com,555-0116,1st,Science,Product Manager,Tier 3,2,1,1,22,0,No research exposure;No industry connections
+R0517,Student_517,student517@test.com,555-0117,Graduated,Science,Data Scientist,Tier 2,4,3,3,13,0,No mentorship;No industry connections
+R0518,Student_518,student518@test.com,555-0118,1st,Engineering,Software Engineer,Tier 1,3,1,2,13,0,No mentorship
+R0519,Student_519,student519@test.com,555-0119,4th,Commerce,Product Manager,Tier 3,4,1,3,11,0,No research exposure
+R0520,Student_520,student520@test.com,555-0120,Graduated,Engineering,Product Manager,Tier 3,3,3,2,13,1,Poor portfolio;Lack of practical experience;No research exposure
+R0521,Student_521,student521@test.com,555-0121,Graduated,Commerce,Researcher,Tier 1,2,3,1,16,0,No industry connections;Lack of practical experience
+R0522,Student_522,student522@test.com,555-0122,Graduated,Engineering,Data Scientist,Tier 2,2,1,3,21,0,No industry connections;Poor portfolio;No research exposure
+R0523,Student_523,student523@test.com,555-0123,1st,Arts,Software Engineer,Tier 2,4,1,1,11,0,No mentorship;Lack of practical experience
+R0524,Student_524,student524@test.com,555-0124,Graduated,Arts,Researcher,Tier 1,2,1,3,18,0,Poor portfolio;Lack of practical experience;No mentorship
+R0525,Student_525,student525@test.com,555-0125,4th,Engineering,Data Scientist,Tier 3,4,2,4,8,0,Lack of practical experience
+R0526,Student_526,student526@test.com,555-0126,Graduated,Science,Data Scientist,Tier 3,1,3,4,8,1,No mentorship;Lack of practical experience
+R0527,Student_527,student527@test.com,555-0127,3rd,Engineering,Data Scientist,Tier 3,3,1,3,24,0,No research exposure
+R0528,Student_528,student528@test.com,555-0128,2nd,Science,Researcher,Tier 1,2,1,3,3,0,No research exposure
+R0529,Student_529,student529@test.com,555-0129,4th,Commerce,Researcher,Tier 2,1,1,3,22,0,Poor portfolio;No mentorship
+R0530,Student_530,student530@test.com,555-0130,Graduated,Commerce,Software Engineer,Tier 2,4,2,2,21,0,Lack of practical experience;No industry connections;Poor portfolio
+R0531,Student_531,student531@test.com,555-0131,3rd,Commerce,Researcher,Tier 2,5,2,3,14,0,No industry connections;No mentorship;Poor portfolio
+R0532,Student_532,student532@test.com,555-0132,3rd,Science,Researcher,Tier 3,3,2,4,2,1,Lack of practical experience;No industry connections
+R0533,Student_533,student533@test.com,555-0133,4th,Arts,Data Scientist,Tier 3,4,2,2,19,0,Lack of practical experience;No industry connections;No research exposure
+R0534,Student_534,student534@test.com,555-0134,Graduated,Science,Product Manager,Tier 3,3,1,3,25,0,No mentorship
+R0535,Student_535,student535@test.com,555-0135,3rd,Arts,Product Manager,Tier 3,2,3,4,13,0,No mentorship;Lack of practical experience
+R0536,Student_536,student536@test.com,555-0136,3rd,Engineering,Product Manager,Tier 2,3,2,2,8,0,Lack of practical experience;No research exposure
+R0537,Student_537,student537@test.com,555-0137,2nd,Commerce,Data Scientist,Tier 3,3,2,2,20,0,Poor portfolio;Lack of practical experience
+R0538,Student_538,student538@test.com,555-0138,1st,Engineering,Software Engineer,Tier 3,3,1,2,0,0,Lack of practical experience
+R0539,Student_539,student539@test.com,555-0139,1st,Commerce,Researcher,Tier 1,1,1,2,24,0,No research exposure;No industry connections
+R0540,Student_540,student540@test.com,555-0140,1st,Science,Software Engineer,Tier 2,5,1,2,15,0,No industry connections;Poor portfolio;No mentorship
+R0541,Student_541,student541@test.com,555-0141,3rd,Commerce,Software Engineer,Tier 3,3,1,4,10,1,Poor portfolio;No mentorship
+R0542,Student_542,student542@test.com,555-0142,2nd,Engineering,Product Manager,Tier 3,4,3,4,3,0,Lack of practical experience;No research exposure
+R0543,Student_543,student543@test.com,555-0143,2nd,Science,Software Engineer,Tier 1,4,2,5,25,0,No industry connections;No research exposure
+R0544,Student_544,student544@test.com,555-0144,1st,Engineering,Researcher,Tier 1,2,3,4,12,1,No industry connections
+R0545,Student_545,student545@test.com,555-0145,4th,Science,Data Scientist,Tier 1,3,1,3,19,0,No mentorship
+R0546,Student_546,student546@test.com,555-0146,1st,Science,Software Engineer,Tier 2,3,2,2,19,0,Lack of practical experience;No industry connections;No research exposure
+R0547,Student_547,student547@test.com,555-0147,4th,Science,Software Engineer,Tier 1,4,3,1,10,0,No industry connections;No mentorship;No research exposure
+R0548,Student_548,student548@test.com,555-0148,2nd,Engineering,Data Scientist,Tier 2,4,2,2,24,0,Poor portfolio
+R0549,Student_549,student549@test.com,555-0149,Graduated,Science,Product Manager,Tier 1,3,4,3,19,0,Lack of practical experience
+R0550,Student_550,student550@test.com,555-0150,4th,Engineering,Software Engineer,Tier 1,3,2,4,20,0,No research exposure;No mentorship
+R0551,Student_551,student551@test.com,555-0151,2nd,Science,Researcher,Tier 3,3,3,2,19,0,No research exposure;Lack of practical experience;Poor portfolio
+R0552,Student_552,student552@test.com,555-0152,3rd,Arts,Product Manager,Tier 1,2,2,4,16,1,Poor portfolio;No mentorship;No research exposure
+R0553,Student_553,student553@test.com,555-0153,2nd,Arts,Software Engineer,Tier 1,3,3,3,15,0,Lack of practical experience
+R0554,Student_554,student554@test.com,555-0154,1st,Arts,Researcher,Tier 1,2,2,1,25,0,Lack of practical experience
+R0555,Student_555,student555@test.com,555-0155,1st,Science,Data Scientist,Tier 1,3,3,2,18,1,No research exposure;No mentorship
+R0556,Student_556,student556@test.com,555-0156,3rd,Science,Software Engineer,Tier 2,3,3,2,13,0,No mentorship;Lack of practical experience
+R0557,Student_557,student557@test.com,555-0157,4th,Commerce,Software Engineer,Tier 2,5,1,4,4,0,No mentorship;Poor portfolio;No industry connections
+R0558,Student_558,student558@test.com,555-0158,2nd,Arts,Data Scientist,Tier 1,3,2,3,4,0,No research exposure;No industry connections
+R0559,Student_559,student559@test.com,555-0159,2nd,Arts,Data Scientist,Tier 2,2,1,1,5,1,No mentorship;Lack of practical experience;No industry connections
+R0560,Student_560,student560@test.com,555-0160,Graduated,Commerce,Data Scientist,Tier 3,2,2,1,0,0,No mentorship;No industry connections;No research exposure
+R0561,Student_561,student561@test.com,555-0161,4th,Science,Data Scientist,Tier 3,2,5,3,23,1,No research exposure
+R0562,Student_562,student562@test.com,555-0162,Graduated,Commerce,Product Manager,Tier 3,3,1,3,7,0,Lack of practical experience;No research exposure;No industry connections
+R0563,Student_563,student563@test.com,555-0163,2nd,Arts,Researcher,Tier 1,3,1,3,22,0,No industry connections;Lack of practical experience;No mentorship
+R0564,Student_564,student564@test.com,555-0164,4th,Science,Product Manager,Tier 1,3,1,3,14,0,Lack of practical experience;No research exposure;Poor portfolio
+R0565,Student_565,student565@test.com,555-0165,3rd,Engineering,Researcher,Tier 2,1,1,3,6,0,Poor portfolio;Lack of practical experience;No industry connections
+R0566,Student_566,student566@test.com,555-0166,3rd,Engineering,Software Engineer,Tier 2,2,3,2,11,0,No industry connections
+R0567,Student_567,student567@test.com,555-0167,1st,Science,Data Scientist,Tier 2,3,1,3,18,0,No mentorship;Poor portfolio;No industry connections
+R0568,Student_568,student568@test.com,555-0168,3rd,Commerce,Researcher,Tier 1,4,2,3,15,1,Lack of practical experience;No research exposure;Poor portfolio
+R0569,Student_569,student569@test.com,555-0169,Graduated,Arts,Product Manager,Tier 3,4,1,1,2,0,Lack of practical experience;No industry connections
+R0570,Student_570,student570@test.com,555-0170,4th,Science,Researcher,Tier 1,4,3,1,22,0,No mentorship;No industry connections
+R0571,Student_571,student571@test.com,555-0171,Graduated,Engineering,Researcher,Tier 2,3,3,4,14,1,No mentorship;Lack of practical experience
+R0572,Student_572,student572@test.com,555-0172,1st,Science,Researcher,Tier 2,2,1,4,25,0,No industry connections;No research exposure
+R0573,Student_573,student573@test.com,555-0173,4th,Arts,Data Scientist,Tier 2,4,1,3,24,0,Poor portfolio
+R0574,Student_574,student574@test.com,555-0174,3rd,Commerce,Data Scientist,Tier 3,4,1,3,9,0,No mentorship
+R0575,Student_575,student575@test.com,555-0175,2nd,Science,Software Engineer,Tier 1,3,1,4,6,1,Poor portfolio;No industry connections;Lack of practical experience
+R0576,Student_576,student576@test.com,555-0176,3rd,Commerce,Data Scientist,Tier 3,2,4,3,12,0,No research exposure
+R0577,Student_577,student577@test.com,555-0177,3rd,Science,Software Engineer,Tier 3,3,1,1,9,1,No mentorship;No research exposure;No industry connections
+R0578,Student_578,student578@test.com,555-0178,1st,Commerce,Software Engineer,Tier 1,3,2,2,0,0,No mentorship;No research exposure;No industry connections
+R0579,Student_579,student579@test.com,555-0179,1st,Arts,Software Engineer,Tier 3,2,2,2,8,0,Lack of practical experience
+R0580,Student_580,student580@test.com,555-0180,Graduated,Commerce,Software Engineer,Tier 3,2,3,5,19,1,Poor portfolio;No research exposure;Lack of practical experience
+R0581,Student_581,student581@test.com,555-0181,4th,Arts,Product Manager,Tier 2,3,2,3,17,0,No research exposure
+R0582,Student_582,student582@test.com,555-0182,4th,Commerce,Researcher,Tier 1,4,1,4,13,0,No industry connections
+R0583,Student_583,student583@test.com,555-0183,Graduated,Engineering,Data Scientist,Tier 1,5,1,2,18,0,Lack of practical experience
+R0584,Student_584,student584@test.com,555-0184,4th,Arts,Product Manager,Tier 1,2,1,2,24,0,No mentorship
+R0585,Student_585,student585@test.com,555-0185,4th,Arts,Product Manager,Tier 1,2,1,3,23,0,Lack of practical experience
+R0586,Student_586,student586@test.com,555-0186,1st,Science,Researcher,Tier 2,5,1,2,15,0,Poor portfolio;No research exposure;Lack of practical experience
+R0587,Student_587,student587@test.com,555-0187,4th,Science,Software Engineer,Tier 1,2,3,3,11,1,No industry connections;No research exposure
+R0588,Student_588,student588@test.com,555-0188,3rd,Commerce,Software Engineer,Tier 2,2,2,2,8,0,Lack of practical experience;No mentorship;No research exposure
+R0589,Student_589,student589@test.com,555-0189,4th,Science,Researcher,Tier 1,3,1,4,1,0,No industry connections;Lack of practical experience
+R0590,Student_590,student590@test.com,555-0190,Graduated,Science,Data Scientist,Tier 1,3,2,1,10,0,Poor portfolio;No industry connections;No research exposure
+R0591,Student_591,student591@test.com,555-0191,3rd,Engineering,Researcher,Tier 1,3,1,4,10,1,No mentorship
+R0592,Student_592,student592@test.com,555-0192,2nd,Science,Data Scientist,Tier 3,2,1,3,16,1,No industry connections;Lack of practical experience;No mentorship
+R0593,Student_593,student593@test.com,555-0193,4th,Engineering,Software Engineer,Tier 1,2,2,4,14,0,Poor portfolio
+R0594,Student_594,student594@test.com,555-0194,1st,Engineering,Data Scientist,Tier 1,3,2,3,7,0,No mentorship
+R0595,Student_595,student595@test.com,555-0195,2nd,Engineering,Product Manager,Tier 3,3,3,3,13,0,Lack of practical experience
+R0596,Student_596,student596@test.com,555-0196,1st,Engineering,Product Manager,Tier 1,3,2,3,9,0,Lack of practical experience
+R0597,Student_597,student597@test.com,555-0197,Graduated,Science,Data Scientist,Tier 1,3,3,2,8,1,Poor portfolio;No mentorship
+R0598,Student_598,student598@test.com,555-0198,Graduated,Science,Software Engineer,Tier 1,4,1,4,16,1,No mentorship;Poor portfolio;Lack of practical experience
+R0599,Student_599,student599@test.com,555-0199,Graduated,Engineering,Software Engineer,Tier 1,2,1,4,5,0,Lack of practical experience;No mentorship;No research exposure
+R0600,Student_600,student600@test.com,555-0100,4th,Commerce,Data Scientist,Tier 3,3,2,3,10,0,Lack of practical experience;No mentorship
+R0601,Student_601,student601@test.com,555-0101,4th,Arts,Researcher,Tier 3,3,1,3,14,1,Poor portfolio;No research exposure;Lack of practical experience
+R0602,Student_602,student602@test.com,555-0102,Graduated,Commerce,Researcher,Tier 2,3,2,3,25,0,Poor portfolio;No mentorship;Lack of practical experience
+R0603,Student_603,student603@test.com,555-0103,4th,Engineering,Product Manager,Tier 2,3,3,1,22,1,No mentorship
+R0604,Student_604,student604@test.com,555-0104,1st,Arts,Data Scientist,Tier 2,4,4,3,12,0,No research exposure
+R0605,Student_605,student605@test.com,555-0105,4th,Arts,Researcher,Tier 3,3,1,4,15,0,No research exposure
+R0606,Student_606,student606@test.com,555-0106,1st,Engineering,Researcher,Tier 2,2,2,1,4,0,Lack of practical experience
+R0607,Student_607,student607@test.com,555-0107,1st,Commerce,Software Engineer,Tier 1,4,3,1,3,0,No industry connections;No research exposure;No mentorship
+R0608,Student_608,student608@test.com,555-0108,2nd,Arts,Product Manager,Tier 2,2,2,4,25,1,No research exposure
+R0609,Student_609,student609@test.com,555-0109,1st,Commerce,Product Manager,Tier 2,2,3,3,21,0,No mentorship;No research exposure;No industry connections
+R0610,Student_610,student610@test.com,555-0110,2nd,Arts,Product Manager,Tier 2,3,1,3,15,1,No industry connections;No research exposure;No mentorship
+R0611,Student_611,student611@test.com,555-0111,Graduated,Science,Software Engineer,Tier 2,4,1,2,24,0,Lack of practical experience;No industry connections
+R0612,Student_612,student612@test.com,555-0112,Graduated,Engineering,Data Scientist,Tier 2,2,3,4,0,0,Lack of practical experience;No research exposure
+R0613,Student_613,student613@test.com,555-0113,3rd,Arts,Product Manager,Tier 2,3,2,3,2,0,Lack of practical experience;Poor portfolio
+R0614,Student_614,student614@test.com,555-0114,2nd,Engineering,Researcher,Tier 1,1,2,4,18,0,Lack of practical experience;No research exposure
+R0615,Student_615,student615@test.com,555-0115,Graduated,Engineering,Researcher,Tier 2,3,3,2,22,0,No research exposure;Poor portfolio
+R0616,Student_616,student616@test.com,555-0116,2nd,Arts,Researcher,Tier 2,3,3,4,25,1,No mentorship;Poor portfolio;No industry connections
+R0617,Student_617,student617@test.com,555-0117,1st,Arts,Product Manager,Tier 1,1,2,1,18,0,Lack of practical experience;No research exposure
+R0618,Student_618,student618@test.com,555-0118,4th,Science,Researcher,Tier 1,3,1,2,25,0,No industry connections;Poor portfolio
+R0619,Student_619,student619@test.com,555-0119,2nd,Commerce,Product Manager,Tier 2,2,2,2,0,1,No industry connections
+R0620,Student_620,student620@test.com,555-0120,4th,Science,Product Manager,Tier 2,4,2,2,19,0,Lack of practical experience;No mentorship;No research exposure
+R0621,Student_621,student621@test.com,555-0121,4th,Science,Data Scientist,Tier 1,1,3,2,2,0,Poor portfolio;No industry connections
+R0622,Student_622,student622@test.com,555-0122,2nd,Arts,Data Scientist,Tier 2,3,3,2,0,0,No research exposure;No industry connections
+R0623,Student_623,student623@test.com,555-0123,Graduated,Commerce,Product Manager,Tier 3,3,2,3,25,0,No industry connections;No mentorship;Poor portfolio
+R0624,Student_624,student624@test.com,555-0124,1st,Commerce,Software Engineer,Tier 1,3,2,3,19,0,No research exposure
+R0625,Student_625,student625@test.com,555-0125,3rd,Engineering,Product Manager,Tier 3,2,1,3,3,1,No industry connections;Poor portfolio;No mentorship
+R0626,Student_626,student626@test.com,555-0126,1st,Science,Software Engineer,Tier 2,2,3,2,12,0,No mentorship;No industry connections
+R0627,Student_627,student627@test.com,555-0127,1st,Science,Data Scientist,Tier 2,3,1,2,11,0,No industry connections;No research exposure
+R0628,Student_628,student628@test.com,555-0128,4th,Science,Researcher,Tier 1,2,3,2,9,0,No industry connections;Lack of practical experience;Poor portfolio
+R0629,Student_629,student629@test.com,555-0129,1st,Science,Researcher,Tier 3,4,1,2,21,0,No mentorship;No research exposure;No industry connections
+R0630,Student_630,student630@test.com,555-0130,1st,Commerce,Researcher,Tier 2,5,3,1,7,0,No mentorship
+R0631,Student_631,student631@test.com,555-0131,4th,Arts,Product Manager,Tier 1,3,2,2,23,0,No research exposure;Lack of practical experience
+R0632,Student_632,student632@test.com,555-0132,2nd,Arts,Software Engineer,Tier 2,2,3,1,17,0,Lack of practical experience;No industry connections
+R0633,Student_633,student633@test.com,555-0133,2nd,Commerce,Data Scientist,Tier 1,4,2,1,5,0,No mentorship;No research exposure;No industry connections
+R0634,Student_634,student634@test.com,555-0134,4th,Commerce,Data Scientist,Tier 2,4,3,3,10,0,Lack of practical experience
+R0635,Student_635,student635@test.com,555-0135,4th,Arts,Data Scientist,Tier 2,1,3,4,0,1,No research exposure
+R0636,Student_636,student636@test.com,555-0136,2nd,Arts,Data Scientist,Tier 1,2,3,2,8,0,Poor portfolio
+R0637,Student_637,student637@test.com,555-0137,2nd,Engineering,Software Engineer,Tier 3,3,4,1,15,0,No mentorship
+R0638,Student_638,student638@test.com,555-0138,2nd,Arts,Researcher,Tier 3,2,2,2,6,1,Poor portfolio
+R0639,Student_639,student639@test.com,555-0139,2nd,Commerce,Data Scientist,Tier 2,3,3,3,14,0,No industry connections;No research exposure
+R0640,Student_640,student640@test.com,555-0140,1st,Engineering,Product Manager,Tier 1,5,1,2,12,0,No research exposure;No industry connections;Poor portfolio
+R0641,Student_641,student641@test.com,555-0141,Graduated,Arts,Software Engineer,Tier 1,3,3,2,11,1,No industry connections;Lack of practical experience;No research exposure
+R0642,Student_642,student642@test.com,555-0142,3rd,Commerce,Researcher,Tier 2,3,2,3,17,0,No mentorship;Poor portfolio;Lack of practical experience
+R0643,Student_643,student643@test.com,555-0143,Graduated,Commerce,Researcher,Tier 2,4,1,4,3,0,No mentorship
+R0644,Student_644,student644@test.com,555-0144,4th,Arts,Researcher,Tier 2,3,4,3,19,0,Poor portfolio;No research exposure;Lack of practical experience
+R0645,Student_645,student645@test.com,555-0145,3rd,Commerce,Data Scientist,Tier 3,2,2,3,4,0,No mentorship
+R0646,Student_646,student646@test.com,555-0146,1st,Commerce,Researcher,Tier 1,3,1,3,15,0,Poor portfolio;No research exposure
+R0647,Student_647,student647@test.com,555-0147,4th,Commerce,Software Engineer,Tier 3,3,4,3,5,0,No industry connections;Poor portfolio;No research exposure
+R0648,Student_648,student648@test.com,555-0148,Graduated,Science,Software Engineer,Tier 3,3,1,4,2,1,Lack of practical experience;Poor portfolio
+R0649,Student_649,student649@test.com,555-0149,1st,Arts,Software Engineer,Tier 2,5,3,1,0,0,No research exposure;No industry connections
+R0650,Student_650,student650@test.com,555-0150,3rd,Engineering,Researcher,Tier 1,2,1,4,10,1,Lack of practical experience
+R0651,Student_651,student651@test.com,555-0151,3rd,Arts,Software Engineer,Tier 3,4,1,5,5,1,Lack of practical experience;No industry connections
+R0652,Student_652,student652@test.com,555-0152,2nd,Science,Product Manager,Tier 2,3,4,3,20,0,Poor portfolio
+R0653,Student_653,student653@test.com,555-0153,4th,Commerce,Researcher,Tier 3,2,3,2,6,0,No research exposure;No industry connections
+R0654,Student_654,student654@test.com,555-0154,3rd,Commerce,Software Engineer,Tier 2,4,1,3,13,0,Lack of practical experience
+R0655,Student_655,student655@test.com,555-0155,Graduated,Arts,Product Manager,Tier 3,5,3,3,20,1,Poor portfolio
+R0656,Student_656,student656@test.com,555-0156,4th,Commerce,Software Engineer,Tier 2,2,5,3,21,0,No industry connections
+R0657,Student_657,student657@test.com,555-0157,4th,Arts,Software Engineer,Tier 3,3,3,3,3,0,No industry connections;Poor portfolio;No mentorship
+R0658,Student_658,student658@test.com,555-0158,3rd,Engineering,Software Engineer,Tier 1,3,1,3,25,0,Lack of practical experience;No industry connections
+R0659,Student_659,student659@test.com,555-0159,4th,Arts,Researcher,Tier 3,1,1,3,10,0,No mentorship
+R0660,Student_660,student660@test.com,555-0160,1st,Arts,Software Engineer,Tier 2,3,2,3,3,0,No research exposure
+R0661,Student_661,student661@test.com,555-0161,4th,Commerce,Product Manager,Tier 2,1,1,1,22,0,Lack of practical experience;No mentorship
+R0662,Student_662,student662@test.com,555-0162,2nd,Engineering,Data Scientist,Tier 1,4,1,4,6,1,No research exposure
+R0663,Student_663,student663@test.com,555-0163,2nd,Science,Product Manager,Tier 3,2,3,3,4,0,Lack of practical experience;No industry connections
+R0664,Student_664,student664@test.com,555-0164,2nd,Science,Product Manager,Tier 2,1,2,3,18,0,Poor portfolio
+R0665,Student_665,student665@test.com,555-0165,Graduated,Commerce,Software Engineer,Tier 2,3,1,4,15,0,No research exposure
+R0666,Student_666,student666@test.com,555-0166,4th,Commerce,Product Manager,Tier 1,3,1,1,13,1,No industry connections;Lack of practical experience
+R0667,Student_667,student667@test.com,555-0167,3rd,Commerce,Product Manager,Tier 1,3,1,1,0,0,No mentorship;No research exposure
+R0668,Student_668,student668@test.com,555-0168,3rd,Commerce,Data Scientist,Tier 3,3,4,4,10,0,Poor portfolio
+R0669,Student_669,student669@test.com,555-0169,4th,Commerce,Researcher,Tier 2,1,1,4,23,1,No research exposure;No mentorship;Lack of practical experience
+R0670,Student_670,student670@test.com,555-0170,2nd,Science,Product Manager,Tier 1,4,1,2,15,0,No mentorship
+R0671,Student_671,student671@test.com,555-0171,Graduated,Engineering,Software Engineer,Tier 2,2,3,3,16,0,Poor portfolio
+R0672,Student_672,student672@test.com,555-0172,4th,Engineering,Data Scientist,Tier 1,2,2,4,10,0,No industry connections
+R0673,Student_673,student673@test.com,555-0173,3rd,Science,Software Engineer,Tier 3,4,3,5,24,1,No industry connections
+R0674,Student_674,student674@test.com,555-0174,Graduated,Engineering,Software Engineer,Tier 3,4,3,1,6,0,Poor portfolio
+R0675,Student_675,student675@test.com,555-0175,4th,Commerce,Software Engineer,Tier 1,2,3,2,14,0,No mentorship
+R0676,Student_676,student676@test.com,555-0176,4th,Arts,Researcher,Tier 3,3,3,4,22,0,No mentorship;No industry connections
+R0677,Student_677,student677@test.com,555-0177,Graduated,Commerce,Data Scientist,Tier 1,2,1,3,16,0,No research exposure
+R0678,Student_678,student678@test.com,555-0178,2nd,Engineering,Software Engineer,Tier 1,2,3,3,24,0,Lack of practical experience;No research exposure
+R0679,Student_679,student679@test.com,555-0179,1st,Science,Software Engineer,Tier 3,3,4,4,13,0,No industry connections;Poor portfolio;No research exposure
+R0680,Student_680,student680@test.com,555-0180,3rd,Arts,Software Engineer,Tier 2,4,1,1,4,0,No mentorship;No research exposure
+R0681,Student_681,student681@test.com,555-0181,3rd,Commerce,Data Scientist,Tier 2,4,1,4,4,0,Lack of practical experience
+R0682,Student_682,student682@test.com,555-0182,Graduated,Arts,Researcher,Tier 3,3,2,4,25,0,Poor portfolio
+R0683,Student_683,student683@test.com,555-0183,4th,Engineering,Software Engineer,Tier 2,4,3,2,3,0,No industry connections;Lack of practical experience
+R0684,Student_684,student684@test.com,555-0184,4th,Arts,Data Scientist,Tier 3,4,2,4,20,1,Poor portfolio;No industry connections
+R0685,Student_685,student685@test.com,555-0185,Graduated,Science,Product Manager,Tier 3,3,1,2,24,0,Lack of practical experience;No mentorship
+R0686,Student_686,student686@test.com,555-0186,4th,Commerce,Software Engineer,Tier 1,5,3,2,15,0,Lack of practical experience;Poor portfolio
+R0687,Student_687,student687@test.com,555-0187,Graduated,Commerce,Product Manager,Tier 2,2,4,1,15,0,No mentorship
+R0688,Student_688,student688@test.com,555-0188,Graduated,Science,Product Manager,Tier 3,1,3,2,16,1,No mentorship
+R0689,Student_689,student689@test.com,555-0189,4th,Commerce,Software Engineer,Tier 3,4,2,3,13,0,Poor portfolio
+R0690,Student_690,student690@test.com,555-0190,Graduated,Arts,Software Engineer,Tier 3,4,3,2,11,0,No research exposure;Lack of practical experience
+R0691,Student_691,student691@test.com,555-0191,2nd,Science,Product Manager,Tier 1,3,2,3,23,0,Lack of practical experience
+R0692,Student_692,student692@test.com,555-0192,Graduated,Arts,Software Engineer,Tier 1,2,3,3,18,0,No research exposure;No industry connections
+R0693,Student_693,student693@test.com,555-0193,Graduated,Science,Data Scientist,Tier 3,2,2,1,23,0,No industry connections
+R0694,Student_694,student694@test.com,555-0194,Graduated,Commerce,Product Manager,Tier 1,4,1,2,1,0,Poor portfolio;Lack of practical experience;No research exposure
+R0695,Student_695,student695@test.com,555-0195,1st,Arts,Software Engineer,Tier 3,3,1,2,1,1,No mentorship;No research exposure;Poor portfolio
+R0696,Student_696,student696@test.com,555-0196,1st,Engineering,Data Scientist,Tier 1,3,3,2,22,1,Lack of practical experience;Poor portfolio
+R0697,Student_697,student697@test.com,555-0197,4th,Engineering,Product Manager,Tier 1,4,3,2,12,0,Lack of practical experience
+R0698,Student_698,student698@test.com,555-0198,1st,Science,Researcher,Tier 1,4,4,3,4,0,No mentorship;Lack of practical experience
+R0699,Student_699,student699@test.com,555-0199,Graduated,Arts,Data Scientist,Tier 1,2,2,2,10,0,Lack of practical experience;No industry connections
+R0700,Student_700,student700@test.com,555-0100,2nd,Science,Data Scientist,Tier 2,2,2,3,3,0,Poor portfolio
+R0701,Student_701,student701@test.com,555-0101,4th,Commerce,Software Engineer,Tier 2,3,2,4,17,1,No industry connections
+R0702,Student_702,student702@test.com,555-0102,2nd,Arts,Product Manager,Tier 2,4,3,2,6,0,No industry connections;No mentorship
+R0703,Student_703,student703@test.com,555-0103,2nd,Commerce,Product Manager,Tier 1,3,2,4,5,1,No research exposure
+R0704,Student_704,student704@test.com,555-0104,3rd,Arts,Product Manager,Tier 2,3,1,2,16,0,No mentorship
+R0705,Student_705,student705@test.com,555-0105,Graduated,Engineering,Researcher,Tier 1,3,3,3,8,0,No industry connections
+R0706,Student_706,student706@test.com,555-0106,Graduated,Arts,Researcher,Tier 3,3,4,4,14,0,Poor portfolio
+R0707,Student_707,student707@test.com,555-0107,3rd,Science,Product Manager,Tier 3,5,4,1,19,0,Lack of practical experience
+R0708,Student_708,student708@test.com,555-0108,2nd,Commerce,Product Manager,Tier 2,1,2,4,20,1,Lack of practical experience;No research exposure;Poor portfolio
+R0709,Student_709,student709@test.com,555-0109,1st,Arts,Product Manager,Tier 3,3,2,2,0,0,Poor portfolio;No mentorship
+R0710,Student_710,student710@test.com,555-0110,4th,Engineering,Data Scientist,Tier 3,4,2,1,22,0,Lack of practical experience
+R0711,Student_711,student711@test.com,555-0111,Graduated,Arts,Data Scientist,Tier 1,3,3,5,22,1,No mentorship
+R0712,Student_712,student712@test.com,555-0112,4th,Engineering,Researcher,Tier 3,2,2,3,6,1,No industry connections;No mentorship;Lack of practical experience
+R0713,Student_713,student713@test.com,555-0113,Graduated,Science,Software Engineer,Tier 1,4,2,2,25,0,Lack of practical experience
+R0714,Student_714,student714@test.com,555-0114,Graduated,Arts,Product Manager,Tier 1,4,1,4,20,1,No research exposure;No industry connections
+R0715,Student_715,student715@test.com,555-0115,3rd,Engineering,Product Manager,Tier 2,4,3,1,8,0,No research exposure;Poor portfolio;Lack of practical experience
+R0716,Student_716,student716@test.com,555-0116,4th,Science,Researcher,Tier 1,4,1,3,23,0,No research exposure;Lack of practical experience;No industry connections
+R0717,Student_717,student717@test.com,555-0117,2nd,Science,Researcher,Tier 2,4,3,4,0,0,No mentorship;Lack of practical experience
+R0718,Student_718,student718@test.com,555-0118,4th,Science,Researcher,Tier 1,4,1,3,7,0,No industry connections;No research exposure;Lack of practical experience
+R0719,Student_719,student719@test.com,555-0119,4th,Engineering,Software Engineer,Tier 1,3,3,3,25,0,No research exposure
+R0720,Student_720,student720@test.com,555-0120,1st,Arts,Product Manager,Tier 1,3,2,2,1,0,No research exposure;Lack of practical experience
+R0721,Student_721,student721@test.com,555-0121,Graduated,Commerce,Data Scientist,Tier 3,2,1,3,13,1,Lack of practical experience;Poor portfolio;No research exposure
+R0722,Student_722,student722@test.com,555-0122,1st,Commerce,Researcher,Tier 3,3,2,3,19,0,No mentorship;No industry connections;Poor portfolio
+R0723,Student_723,student723@test.com,555-0123,Graduated,Arts,Researcher,Tier 2,3,2,2,1,0,Poor portfolio
+R0724,Student_724,student724@test.com,555-0124,Graduated,Commerce,Researcher,Tier 2,2,1,4,4,1,Poor portfolio;No industry connections
+R0725,Student_725,student725@test.com,555-0125,3rd,Arts,Software Engineer,Tier 3,2,3,1,17,0,Poor portfolio;No mentorship
+R0726,Student_726,student726@test.com,555-0126,2nd,Science,Software Engineer,Tier 2,3,3,3,22,0,Poor portfolio;No industry connections;No research exposure
+R0727,Student_727,student727@test.com,555-0127,3rd,Commerce,Researcher,Tier 1,4,3,5,0,1,No mentorship;No research exposure;Poor portfolio
+R0728,Student_728,student728@test.com,555-0128,2nd,Science,Product Manager,Tier 3,3,1,2,25,0,No research exposure
+R0729,Student_729,student729@test.com,555-0129,2nd,Engineering,Researcher,Tier 1,3,3,3,6,1,Lack of practical experience;No industry connections
+R0730,Student_730,student730@test.com,555-0130,2nd,Science,Researcher,Tier 1,3,3,4,5,0,No mentorship;No industry connections;Lack of practical experience
+R0731,Student_731,student731@test.com,555-0131,1st,Science,Researcher,Tier 1,3,1,4,3,0,Poor portfolio
+R0732,Student_732,student732@test.com,555-0132,4th,Science,Researcher,Tier 2,2,1,4,25,0,Lack of practical experience;No industry connections;No research exposure
+R0733,Student_733,student733@test.com,555-0133,2nd,Science,Data Scientist,Tier 3,4,1,2,7,0,No industry connections;No mentorship;Poor portfolio
+R0734,Student_734,student734@test.com,555-0134,3rd,Science,Researcher,Tier 1,5,3,1,4,1,No research exposure;No mentorship;Poor portfolio
+R0735,Student_735,student735@test.com,555-0135,1st,Commerce,Software Engineer,Tier 1,3,1,1,15,1,No mentorship;Poor portfolio
+R0736,Student_736,student736@test.com,555-0136,3rd,Commerce,Product Manager,Tier 2,3,3,2,25,1,Lack of practical experience;No mentorship;No industry connections
+R0737,Student_737,student737@test.com,555-0137,2nd,Commerce,Data Scientist,Tier 2,4,2,3,11,0,Lack of practical experience;No mentorship;No industry connections
+R0738,Student_738,student738@test.com,555-0138,3rd,Commerce,Researcher,Tier 1,2,1,3,19,0,No research exposure;No industry connections
+R0739,Student_739,student739@test.com,555-0139,4th,Commerce,Researcher,Tier 2,4,2,3,20,0,Lack of practical experience;Poor portfolio
+R0740,Student_740,student740@test.com,555-0140,Graduated,Engineering,Researcher,Tier 1,3,2,4,1,1,No mentorship;Poor portfolio
+R0741,Student_741,student741@test.com,555-0141,3rd,Arts,Researcher,Tier 1,1,4,2,23,1,Lack of practical experience;Poor portfolio
+R0742,Student_742,student742@test.com,555-0142,3rd,Arts,Product Manager,Tier 2,4,1,2,0,0,No industry connections;No mentorship;No research exposure
+R0743,Student_743,student743@test.com,555-0143,2nd,Science,Data Scientist,Tier 2,4,1,3,14,0,Poor portfolio
+R0744,Student_744,student744@test.com,555-0144,2nd,Commerce,Product Manager,Tier 1,1,3,2,0,0,No industry connections
+R0745,Student_745,student745@test.com,555-0145,2nd,Arts,Software Engineer,Tier 2,1,1,3,21,0,No industry connections;Poor portfolio;No mentorship
+R0746,Student_746,student746@test.com,555-0146,Graduated,Engineering,Software Engineer,Tier 1,4,4,3,10,1,No industry connections;No research exposure;No mentorship
+R0747,Student_747,student747@test.com,555-0147,2nd,Commerce,Software Engineer,Tier 3,4,1,2,20,0,No mentorship
+R0748,Student_748,student748@test.com,555-0148,1st,Science,Software Engineer,Tier 3,3,2,5,6,1,Poor portfolio;No mentorship
+R0749,Student_749,student749@test.com,555-0149,2nd,Arts,Software Engineer,Tier 2,3,3,4,13,0,Lack of practical experience
+R0750,Student_750,student750@test.com,555-0150,2nd,Commerce,Product Manager,Tier 3,5,3,4,6,1,Poor portfolio
+R0751,Student_751,student751@test.com,555-0151,4th,Commerce,Data Scientist,Tier 3,3,2,2,14,0,Lack of practical experience
+R0752,Student_752,student752@test.com,555-0152,2nd,Commerce,Software Engineer,Tier 2,2,2,4,10,0,No research exposure;Lack of practical experience
+R0753,Student_753,student753@test.com,555-0153,1st,Arts,Product Manager,Tier 2,1,2,2,25,0,No mentorship;No industry connections
+R0754,Student_754,student754@test.com,555-0154,Graduated,Commerce,Product Manager,Tier 2,4,2,4,18,1,Lack of practical experience;No mentorship
+R0755,Student_755,student755@test.com,555-0155,2nd,Arts,Researcher,Tier 3,2,2,4,15,0,Lack of practical experience;Poor portfolio;No industry connections
+R0756,Student_756,student756@test.com,555-0156,1st,Arts,Product Manager,Tier 2,3,3,2,1,0,Lack of practical experience
+R0757,Student_757,student757@test.com,555-0157,4th,Commerce,Researcher,Tier 3,3,3,2,22,0,No research exposure;No industry connections
+R0758,Student_758,student758@test.com,555-0158,4th,Engineering,Software Engineer,Tier 3,2,1,3,14,0,Poor portfolio;No mentorship
+R0759,Student_759,student759@test.com,555-0159,2nd,Engineering,Software Engineer,Tier 1,4,2,2,24,0,Poor portfolio;No mentorship;No research exposure
+R0760,Student_760,student760@test.com,555-0160,3rd,Science,Data Scientist,Tier 3,4,2,3,6,0,Lack of practical experience;No industry connections;No mentorship
+R0761,Student_761,student761@test.com,555-0161,3rd,Commerce,Software Engineer,Tier 3,3,2,4,11,1,Lack of practical experience
+R0762,Student_762,student762@test.com,555-0162,1st,Commerce,Software Engineer,Tier 1,3,3,1,21,0,Lack of practical experience
+R0763,Student_763,student763@test.com,555-0163,2nd,Science,Software Engineer,Tier 2,3,1,1,19,0,No research exposure;No industry connections;Lack of practical experience
+R0764,Student_764,student764@test.com,555-0164,2nd,Science,Software Engineer,Tier 2,3,2,4,20,0,No research exposure
+R0765,Student_765,student765@test.com,555-0165,2nd,Commerce,Data Scientist,Tier 1,2,2,2,6,0,No industry connections;No research exposure
+R0766,Student_766,student766@test.com,555-0166,1st,Science,Researcher,Tier 1,1,1,3,22,0,No mentorship;Poor portfolio;Lack of practical experience
+R0767,Student_767,student767@test.com,555-0167,3rd,Commerce,Software Engineer,Tier 2,3,1,5,23,1,No industry connections;Lack of practical experience;No research exposure
+R0768,Student_768,student768@test.com,555-0168,1st,Engineering,Researcher,Tier 1,3,1,3,19,0,No mentorship
+R0769,Student_769,student769@test.com,555-0169,3rd,Commerce,Researcher,Tier 1,4,4,3,19,0,Poor portfolio;No mentorship;No research exposure
+R0770,Student_770,student770@test.com,555-0170,3rd,Engineering,Product Manager,Tier 3,4,1,3,7,0,No mentorship;No industry connections
+R0771,Student_771,student771@test.com,555-0171,Graduated,Engineering,Data Scientist,Tier 3,2,3,2,5,0,Lack of practical experience;No industry connections;No mentorship
+R0772,Student_772,student772@test.com,555-0172,1st,Science,Software Engineer,Tier 3,5,2,2,4,0,No industry connections
+R0773,Student_773,student773@test.com,555-0173,Graduated,Science,Data Scientist,Tier 3,4,1,4,7,0,No industry connections
+R0774,Student_774,student774@test.com,555-0174,2nd,Arts,Researcher,Tier 3,2,2,4,8,0,Poor portfolio
+R0775,Student_775,student775@test.com,555-0175,4th,Commerce,Data Scientist,Tier 2,3,2,1,25,0,No research exposure
+R0776,Student_776,student776@test.com,555-0176,4th,Engineering,Researcher,Tier 3,2,2,1,5,0,No research exposure;Poor portfolio
+R0777,Student_777,student777@test.com,555-0177,4th,Arts,Product Manager,Tier 3,3,3,2,4,0,Lack of practical experience
+R0778,Student_778,student778@test.com,555-0178,Graduated,Arts,Product Manager,Tier 2,5,1,3,23,0,No research exposure;Poor portfolio
+R0779,Student_779,student779@test.com,555-0179,Graduated,Engineering,Product Manager,Tier 1,3,3,3,24,0,Poor portfolio;No research exposure
+R0780,Student_780,student780@test.com,555-0180,3rd,Engineering,Product Manager,Tier 2,3,1,2,1,0,Lack of practical experience;No mentorship;No research exposure
+R0781,Student_781,student781@test.com,555-0181,Graduated,Commerce,Data Scientist,Tier 2,4,2,3,3,0,No research exposure;No industry connections;Poor portfolio
+R0782,Student_782,student782@test.com,555-0182,Graduated,Engineering,Data Scientist,Tier 2,4,3,2,22,0,No industry connections;No research exposure;Poor portfolio
+R0783,Student_783,student783@test.com,555-0183,3rd,Commerce,Software Engineer,Tier 1,2,2,1,23,0,No research exposure;Poor portfolio;Lack of practical experience
+R0784,Student_784,student784@test.com,555-0184,2nd,Commerce,Software Engineer,Tier 1,4,3,3,16,0,Poor portfolio;No research exposure;Lack of practical experience
+R0785,Student_785,student785@test.com,555-0185,2nd,Arts,Data Scientist,Tier 3,4,2,3,18,0,No mentorship
+R0786,Student_786,student786@test.com,555-0186,1st,Science,Data Scientist,Tier 2,5,2,2,14,1,No mentorship
+R0787,Student_787,student787@test.com,555-0187,1st,Arts,Software Engineer,Tier 2,3,3,3,15,0,Lack of practical experience
+R0788,Student_788,student788@test.com,555-0188,3rd,Engineering,Software Engineer,Tier 1,3,4,3,12,1,Poor portfolio;No research exposure;No mentorship
+R0789,Student_789,student789@test.com,555-0189,3rd,Commerce,Researcher,Tier 2,2,2,3,11,0,No industry connections;Lack of practical experience
+R0790,Student_790,student790@test.com,555-0190,3rd,Arts,Software Engineer,Tier 1,2,2,3,23,0,No industry connections
+R0791,Student_791,student791@test.com,555-0191,1st,Arts,Data Scientist,Tier 2,3,3,1,21,0,Poor portfolio
+R0792,Student_792,student792@test.com,555-0192,1st,Arts,Software Engineer,Tier 3,3,3,2,19,0,No industry connections;Lack of practical experience
+R0793,Student_793,student793@test.com,555-0193,3rd,Commerce,Product Manager,Tier 3,1,2,4,6,1,No industry connections;Lack of practical experience;No research exposure
+R0794,Student_794,student794@test.com,555-0194,4th,Engineering,Researcher,Tier 3,5,2,2,14,0,Lack of practical experience;No research exposure
+R0795,Student_795,student795@test.com,555-0195,Graduated,Science,Data Scientist,Tier 1,5,2,4,22,1,Poor portfolio
+R0796,Student_796,student796@test.com,555-0196,4th,Arts,Data Scientist,Tier 3,3,3,2,21,0,No mentorship;No research exposure;Lack of practical experience
+R0797,Student_797,student797@test.com,555-0197,3rd,Science,Software Engineer,Tier 3,5,2,1,20,1,No mentorship;No industry connections
+R0798,Student_798,student798@test.com,555-0198,3rd,Engineering,Researcher,Tier 1,4,3,1,18,0,Lack of practical experience;Poor portfolio;No industry connections
+R0799,Student_799,student799@test.com,555-0199,3rd,Commerce,Software Engineer,Tier 2,3,4,4,10,0,No mentorship;No industry connections;Lack of practical experience
+R0800,Student_800,student800@test.com,555-0100,4th,Engineering,Product Manager,Tier 2,4,4,1,7,0,No research exposure;No mentorship;Poor portfolio
+R0801,Student_801,student801@test.com,555-0101,3rd,Science,Software Engineer,Tier 3,4,2,2,22,1,No mentorship;No research exposure
+R0802,Student_802,student802@test.com,555-0102,3rd,Commerce,Software Engineer,Tier 2,4,3,2,23,0,Lack of practical experience;No mentorship;No research exposure
+R0803,Student_803,student803@test.com,555-0103,4th,Arts,Data Scientist,Tier 1,3,1,2,24,0,Lack of practical experience;Poor portfolio
+R0804,Student_804,student804@test.com,555-0104,3rd,Science,Product Manager,Tier 1,4,3,1,18,0,Poor portfolio;No research exposure;No industry connections
+R0805,Student_805,student805@test.com,555-0105,2nd,Science,Product Manager,Tier 3,3,2,1,6,0,No industry connections;Lack of practical experience
+R0806,Student_806,student806@test.com,555-0106,2nd,Commerce,Product Manager,Tier 3,4,1,4,3,0,No mentorship;Lack of practical experience
+R0807,Student_807,student807@test.com,555-0107,1st,Arts,Product Manager,Tier 1,2,3,2,15,0,No industry connections;No mentorship;Poor portfolio
+R0808,Student_808,student808@test.com,555-0108,4th,Engineering,Product Manager,Tier 3,2,3,3,14,0,Lack of practical experience
+R0809,Student_809,student809@test.com,555-0109,1st,Engineering,Software Engineer,Tier 2,1,2,1,18,0,Lack of practical experience;No mentorship
+R0810,Student_810,student810@test.com,555-0110,4th,Commerce,Product Manager,Tier 2,3,2,4,2,1,Lack of practical experience;No research exposure
+R0811,Student_811,student811@test.com,555-0111,Graduated,Commerce,Software Engineer,Tier 3,2,3,3,24,0,Lack of practical experience;No mentorship;Poor portfolio
+R0812,Student_812,student812@test.com,555-0112,2nd,Engineering,Product Manager,Tier 2,3,2,1,6,0,No industry connections
+R0813,Student_813,student813@test.com,555-0113,3rd,Engineering,Software Engineer,Tier 1,3,1,2,21,0,Poor portfolio
+R0814,Student_814,student814@test.com,555-0114,1st,Arts,Product Manager,Tier 1,2,1,2,16,0,No industry connections;No mentorship;Poor portfolio
+R0815,Student_815,student815@test.com,555-0115,1st,Engineering,Data Scientist,Tier 1,4,3,3,19,1,No industry connections
+R0816,Student_816,student816@test.com,555-0116,3rd,Arts,Data Scientist,Tier 3,3,2,1,8,0,No mentorship;No research exposure
+R0817,Student_817,student817@test.com,555-0117,4th,Engineering,Researcher,Tier 3,4,2,2,23,0,No mentorship;Poor portfolio;No research exposure
+R0818,Student_818,student818@test.com,555-0118,Graduated,Science,Product Manager,Tier 1,2,4,2,12,0,No mentorship;Lack of practical experience;No industry connections
+R0819,Student_819,student819@test.com,555-0119,1st,Engineering,Product Manager,Tier 1,3,3,2,4,0,Lack of practical experience;No industry connections
+R0820,Student_820,student820@test.com,555-0120,4th,Science,Product Manager,Tier 1,3,1,2,16,0,No research exposure;Lack of practical experience;Poor portfolio
+R0821,Student_821,student821@test.com,555-0121,3rd,Arts,Researcher,Tier 3,3,1,3,5,0,No industry connections;No research exposure;No mentorship
+R0822,Student_822,student822@test.com,555-0122,Graduated,Science,Researcher,Tier 1,2,1,5,21,1,No research exposure
+R0823,Student_823,student823@test.com,555-0123,Graduated,Arts,Software Engineer,Tier 3,2,2,2,13,0,No research exposure
+R0824,Student_824,student824@test.com,555-0124,3rd,Commerce,Researcher,Tier 2,4,2,2,22,0,Lack of practical experience;Poor portfolio
+R0825,Student_825,student825@test.com,555-0125,4th,Arts,Software Engineer,Tier 3,4,3,4,1,1,Poor portfolio;No research exposure;Lack of practical experience
+R0826,Student_826,student826@test.com,555-0126,4th,Science,Product Manager,Tier 2,1,2,2,17,0,Lack of practical experience;No mentorship
+R0827,Student_827,student827@test.com,555-0127,1st,Commerce,Researcher,Tier 1,3,5,4,16,1,No research exposure;No mentorship;Poor portfolio
+R0828,Student_828,student828@test.com,555-0128,Graduated,Science,Data Scientist,Tier 1,3,2,1,11,0,No research exposure;No industry connections
+R0829,Student_829,student829@test.com,555-0129,2nd,Arts,Software Engineer,Tier 2,3,1,3,3,0,No research exposure;Poor portfolio
+R0830,Student_830,student830@test.com,555-0130,3rd,Science,Software Engineer,Tier 3,2,1,2,9,1,No research exposure
+R0831,Student_831,student831@test.com,555-0131,Graduated,Commerce,Software Engineer,Tier 2,3,2,4,11,1,Poor portfolio;Lack of practical experience
+R0832,Student_832,student832@test.com,555-0132,1st,Commerce,Product Manager,Tier 1,4,3,3,4,0,No research exposure
+R0833,Student_833,student833@test.com,555-0133,1st,Science,Researcher,Tier 1,3,1,2,17,0,No research exposure
+R0834,Student_834,student834@test.com,555-0134,4th,Science,Data Scientist,Tier 2,3,2,4,22,1,No mentorship
+R0835,Student_835,student835@test.com,555-0135,3rd,Engineering,Data Scientist,Tier 2,3,3,2,15,0,No research exposure
+R0836,Student_836,student836@test.com,555-0136,4th,Commerce,Data Scientist,Tier 2,3,1,3,12,1,No research exposure;No mentorship;Lack of practical experience
+R0837,Student_837,student837@test.com,555-0137,1st,Engineering,Data Scientist,Tier 1,3,2,2,10,0,Lack of practical experience;No research exposure;No mentorship
+R0838,Student_838,student838@test.com,555-0138,3rd,Arts,Product Manager,Tier 1,3,1,2,4,1,No mentorship
+R0839,Student_839,student839@test.com,555-0139,3rd,Engineering,Researcher,Tier 3,5,2,3,25,0,No industry connections;No mentorship;Lack of practical experience
+R0840,Student_840,student840@test.com,555-0140,Graduated,Science,Data Scientist,Tier 1,3,2,4,6,1,Lack of practical experience;No mentorship
+R0841,Student_841,student841@test.com,555-0141,1st,Engineering,Product Manager,Tier 2,3,3,1,13,0,No industry connections
+R0842,Student_842,student842@test.com,555-0142,4th,Engineering,Researcher,Tier 1,3,3,3,11,0,Poor portfolio
+R0843,Student_843,student843@test.com,555-0143,1st,Science,Software Engineer,Tier 1,4,2,4,19,1,No mentorship;Poor portfolio
+R0844,Student_844,student844@test.com,555-0144,4th,Arts,Researcher,Tier 2,4,3,4,21,1,Poor portfolio;No industry connections
+R0845,Student_845,student845@test.com,555-0145,Graduated,Arts,Data Scientist,Tier 3,4,2,2,20,1,Lack of practical experience
+R0846,Student_846,student846@test.com,555-0146,Graduated,Science,Data Scientist,Tier 3,3,2,3,17,1,Poor portfolio;No research exposure
+R0847,Student_847,student847@test.com,555-0147,2nd,Science,Software Engineer,Tier 1,4,2,3,17,0,No research exposure;Lack of practical experience
+R0848,Student_848,student848@test.com,555-0148,4th,Engineering,Product Manager,Tier 2,1,2,5,25,1,No industry connections
+R0849,Student_849,student849@test.com,555-0149,3rd,Science,Researcher,Tier 1,3,3,3,12,0,No industry connections;Lack of practical experience;No research exposure
+R0850,Student_850,student850@test.com,555-0150,4th,Commerce,Product Manager,Tier 2,2,2,2,0,0,No mentorship;Lack of practical experience;Poor portfolio
+R0851,Student_851,student851@test.com,555-0151,4th,Arts,Researcher,Tier 1,4,3,3,17,0,Lack of practical experience;No mentorship
+R0852,Student_852,student852@test.com,555-0152,3rd,Science,Researcher,Tier 1,3,1,3,6,1,Lack of practical experience
+R0853,Student_853,student853@test.com,555-0153,3rd,Arts,Researcher,Tier 1,2,2,5,19,0,Lack of practical experience;No industry connections
+R0854,Student_854,student854@test.com,555-0154,3rd,Science,Researcher,Tier 1,3,2,4,21,1,No research exposure;Poor portfolio;No industry connections
+R0855,Student_855,student855@test.com,555-0155,Graduated,Science,Product Manager,Tier 1,4,1,2,12,0,No mentorship;No research exposure
+R0856,Student_856,student856@test.com,555-0156,3rd,Science,Product Manager,Tier 1,2,2,1,5,0,No research exposure;No mentorship;Poor portfolio
+R0857,Student_857,student857@test.com,555-0157,3rd,Engineering,Researcher,Tier 1,2,2,4,4,1,No mentorship;No research exposure
+R0858,Student_858,student858@test.com,555-0158,4th,Engineering,Data Scientist,Tier 3,3,2,2,3,0,Lack of practical experience;No industry connections
+R0859,Student_859,student859@test.com,555-0159,1st,Engineering,Data Scientist,Tier 1,2,3,3,25,0,No industry connections
+R0860,Student_860,student860@test.com,555-0160,3rd,Engineering,Data Scientist,Tier 1,2,2,2,14,0,Poor portfolio;No research exposure
+R0861,Student_861,student861@test.com,555-0161,2nd,Science,Software Engineer,Tier 3,2,3,2,3,1,Lack of practical experience;No research exposure
+R0862,Student_862,student862@test.com,555-0162,2nd,Engineering,Data Scientist,Tier 1,3,3,4,11,0,No research exposure
+R0863,Student_863,student863@test.com,555-0163,1st,Commerce,Data Scientist,Tier 1,5,2,3,10,0,Lack of practical experience;No industry connections
+R0864,Student_864,student864@test.com,555-0164,Graduated,Science,Data Scientist,Tier 2,2,2,3,21,0,Poor portfolio
+R0865,Student_865,student865@test.com,555-0165,Graduated,Arts,Researcher,Tier 1,4,1,3,22,0,No mentorship
+R0866,Student_866,student866@test.com,555-0166,2nd,Arts,Data Scientist,Tier 2,1,3,3,15,0,No industry connections
+R0867,Student_867,student867@test.com,555-0167,4th,Arts,Data Scientist,Tier 1,3,2,2,15,0,No research exposure;Poor portfolio
+R0868,Student_868,student868@test.com,555-0168,2nd,Science,Product Manager,Tier 2,2,2,2,15,1,No mentorship;No research exposure;Lack of practical experience
+R0869,Student_869,student869@test.com,555-0169,Graduated,Commerce,Data Scientist,Tier 3,3,3,3,11,1,No mentorship;Lack of practical experience
+R0870,Student_870,student870@test.com,555-0170,1st,Arts,Researcher,Tier 1,3,3,5,17,0,No mentorship
+R0871,Student_871,student871@test.com,555-0171,2nd,Engineering,Data Scientist,Tier 1,3,2,4,13,0,Lack of practical experience
+R0872,Student_872,student872@test.com,555-0172,Graduated,Engineering,Product Manager,Tier 3,3,2,3,11,0,No mentorship
+R0873,Student_873,student873@test.com,555-0173,1st,Engineering,Product Manager,Tier 1,2,3,3,9,0,Poor portfolio;No research exposure
+R0874,Student_874,student874@test.com,555-0174,1st,Arts,Software Engineer,Tier 1,4,3,3,19,0,No mentorship;Lack of practical experience;No industry connections
+R0875,Student_875,student875@test.com,555-0175,4th,Commerce,Researcher,Tier 3,3,1,1,2,1,No mentorship;No industry connections
+R0876,Student_876,student876@test.com,555-0176,4th,Engineering,Data Scientist,Tier 2,4,4,3,17,1,No research exposure
+R0877,Student_877,student877@test.com,555-0177,4th,Arts,Product Manager,Tier 2,5,2,3,3,0,Poor portfolio
+R0878,Student_878,student878@test.com,555-0178,Graduated,Arts,Software Engineer,Tier 1,3,3,2,2,0,Lack of practical experience;Poor portfolio;No industry connections
+R0879,Student_879,student879@test.com,555-0179,Graduated,Science,Software Engineer,Tier 1,5,1,2,25,0,Lack of practical experience
+R0880,Student_880,student880@test.com,555-0180,3rd,Engineering,Researcher,Tier 1,5,2,2,12,1,Poor portfolio
+R0881,Student_881,student881@test.com,555-0181,4th,Arts,Data Scientist,Tier 3,2,3,2,16,0,No industry connections
+R0882,Student_882,student882@test.com,555-0182,4th,Commerce,Software Engineer,Tier 2,4,3,2,2,0,No mentorship;No industry connections;Poor portfolio
+R0883,Student_883,student883@test.com,555-0183,2nd,Science,Researcher,Tier 2,2,1,3,13,0,No research exposure;No mentorship;Lack of practical experience
+R0884,Student_884,student884@test.com,555-0184,Graduated,Engineering,Data Scientist,Tier 3,2,1,4,25,1,Poor portfolio
+R0885,Student_885,student885@test.com,555-0185,Graduated,Engineering,Product Manager,Tier 1,3,2,2,18,0,Lack of practical experience;No industry connections
+R0886,Student_886,student886@test.com,555-0186,2nd,Commerce,Researcher,Tier 2,5,2,3,14,0,No industry connections
+R0887,Student_887,student887@test.com,555-0187,4th,Engineering,Researcher,Tier 2,4,2,1,11,1,Poor portfolio;No industry connections;Lack of practical experience
+R0888,Student_888,student888@test.com,555-0188,4th,Commerce,Researcher,Tier 3,5,3,3,1,0,No industry connections;Lack of practical experience;No research exposure
+R0889,Student_889,student889@test.com,555-0189,1st,Arts,Product Manager,Tier 1,2,2,1,21,0,No research exposure;No industry connections
+R0890,Student_890,student890@test.com,555-0190,Graduated,Commerce,Software Engineer,Tier 1,3,2,5,12,0,No research exposure
+R0891,Student_891,student891@test.com,555-0191,3rd,Engineering,Researcher,Tier 2,3,2,4,8,0,No industry connections
+R0892,Student_892,student892@test.com,555-0192,2nd,Commerce,Data Scientist,Tier 3,3,3,1,19,0,Poor portfolio
+R0893,Student_893,student893@test.com,555-0193,4th,Commerce,Data Scientist,Tier 1,3,2,3,8,0,No mentorship
+R0894,Student_894,student894@test.com,555-0194,1st,Arts,Product Manager,Tier 1,3,4,1,13,1,Poor portfolio
+R0895,Student_895,student895@test.com,555-0195,2nd,Engineering,Software Engineer,Tier 2,4,2,2,13,0,No industry connections;No mentorship
+R0896,Student_896,student896@test.com,555-0196,4th,Arts,Product Manager,Tier 1,1,1,3,6,0,No industry connections;No mentorship;No research exposure
+R0897,Student_897,student897@test.com,555-0197,3rd,Engineering,Data Scientist,Tier 2,3,1,4,21,0,No industry connections;Lack of practical experience
+R0898,Student_898,student898@test.com,555-0198,4th,Science,Product Manager,Tier 3,3,2,4,6,1,No industry connections;No mentorship
+R0899,Student_899,student899@test.com,555-0199,Graduated,Commerce,Data Scientist,Tier 2,4,1,3,11,0,Poor portfolio
+R0900,Student_900,student900@test.com,555-0100,3rd,Engineering,Product Manager,Tier 3,4,2,1,11,0,No research exposure;Poor portfolio;Lack of practical experience
+R0901,Student_901,student901@test.com,555-0101,2nd,Commerce,Product Manager,Tier 2,4,1,3,21,0,Poor portfolio;Lack of practical experience;No research exposure
+R0902,Student_902,student902@test.com,555-0102,1st,Engineering,Software Engineer,Tier 3,3,2,2,23,1,Lack of practical experience;No research exposure;Poor portfolio
+R0903,Student_903,student903@test.com,555-0103,Graduated,Engineering,Researcher,Tier 2,5,2,3,15,0,No research exposure;No industry connections
+R0904,Student_904,student904@test.com,555-0104,4th,Engineering,Researcher,Tier 1,2,2,3,21,0,No research exposure;No mentorship
+R0905,Student_905,student905@test.com,555-0105,1st,Commerce,Software Engineer,Tier 1,3,3,4,23,0,No mentorship;No research exposure
+R0906,Student_906,student906@test.com,555-0106,2nd,Commerce,Data Scientist,Tier 3,2,1,1,25,1,No mentorship;No research exposure
+R0907,Student_907,student907@test.com,555-0107,2nd,Commerce,Researcher,Tier 3,4,2,3,3,1,Poor portfolio;No mentorship
+R0908,Student_908,student908@test.com,555-0108,3rd,Science,Software Engineer,Tier 1,3,2,2,24,1,Lack of practical experience
+R0909,Student_909,student909@test.com,555-0109,Graduated,Engineering,Product Manager,Tier 1,2,1,2,11,0,No mentorship
+R0910,Student_910,student910@test.com,555-0110,3rd,Science,Data Scientist,Tier 3,3,1,3,24,0,Lack of practical experience;Poor portfolio;No industry connections
+R0911,Student_911,student911@test.com,555-0111,2nd,Engineering,Software Engineer,Tier 1,3,3,1,5,0,No research exposure
+R0912,Student_912,student912@test.com,555-0112,3rd,Science,Product Manager,Tier 1,3,2,3,2,0,Lack of practical experience;No mentorship;Poor portfolio
+R0913,Student_913,student913@test.com,555-0113,4th,Commerce,Researcher,Tier 3,2,2,5,5,1,Poor portfolio
+R0914,Student_914,student914@test.com,555-0114,3rd,Commerce,Software Engineer,Tier 1,2,2,3,3,0,Lack of practical experience;No industry connections;Poor portfolio
+R0915,Student_915,student915@test.com,555-0115,Graduated,Science,Data Scientist,Tier 2,3,2,3,23,0,Poor portfolio;No research exposure
+R0916,Student_916,student916@test.com,555-0116,2nd,Engineering,Researcher,Tier 3,2,2,4,23,0,No industry connections;No research exposure
+R0917,Student_917,student917@test.com,555-0117,2nd,Arts,Data Scientist,Tier 1,1,2,2,18,1,No mentorship;No industry connections
+R0918,Student_918,student918@test.com,555-0118,4th,Commerce,Product Manager,Tier 2,2,2,3,10,1,No industry connections
+R0919,Student_919,student919@test.com,555-0119,4th,Commerce,Data Scientist,Tier 3,5,2,1,1,1,No industry connections;No research exposure
+R0920,Student_920,student920@test.com,555-0120,3rd,Arts,Product Manager,Tier 1,4,3,2,13,0,No mentorship;Lack of practical experience
+R0921,Student_921,student921@test.com,555-0121,2nd,Arts,Researcher,Tier 1,2,2,3,10,0,No industry connections;Poor portfolio
+R0922,Student_922,student922@test.com,555-0122,2nd,Engineering,Product Manager,Tier 2,2,1,3,3,1,No industry connections;Lack of practical experience
+R0923,Student_923,student923@test.com,555-0123,Graduated,Commerce,Product Manager,Tier 2,2,3,3,1,0,Lack of practical experience;No industry connections
+R0924,Student_924,student924@test.com,555-0124,4th,Science,Researcher,Tier 3,2,3,3,9,0,No industry connections;Lack of practical experience;No mentorship
+R0925,Student_925,student925@test.com,555-0125,3rd,Science,Product Manager,Tier 1,2,3,4,2,0,No research exposure
+R0926,Student_926,student926@test.com,555-0126,3rd,Arts,Researcher,Tier 2,2,3,3,10,0,Lack of practical experience;No research exposure;No mentorship
+R0927,Student_927,student927@test.com,555-0127,4th,Commerce,Software Engineer,Tier 2,3,2,3,4,0,No research exposure;No mentorship
+R0928,Student_928,student928@test.com,555-0128,2nd,Engineering,Data Scientist,Tier 3,4,1,4,17,1,Lack of practical experience;Poor portfolio;No industry connections
+R0929,Student_929,student929@test.com,555-0129,1st,Engineering,Researcher,Tier 1,5,2,3,22,0,No industry connections
+R0930,Student_930,student930@test.com,555-0130,4th,Engineering,Data Scientist,Tier 2,4,1,2,13,0,Lack of practical experience;No mentorship;Poor portfolio
+R0931,Student_931,student931@test.com,555-0131,4th,Commerce,Researcher,Tier 2,2,3,3,22,0,No industry connections;No mentorship
+R0932,Student_932,student932@test.com,555-0132,2nd,Engineering,Software Engineer,Tier 2,3,2,3,6,0,No mentorship;No research exposure
+R0933,Student_933,student933@test.com,555-0133,1st,Arts,Data Scientist,Tier 3,2,1,3,22,0,No mentorship;Lack of practical experience;No research exposure
+R0934,Student_934,student934@test.com,555-0134,2nd,Arts,Product Manager,Tier 2,4,1,5,24,0,Lack of practical experience
+R0935,Student_935,student935@test.com,555-0135,3rd,Commerce,Data Scientist,Tier 3,5,2,2,3,0,Lack of practical experience
+R0936,Student_936,student936@test.com,555-0136,4th,Science,Researcher,Tier 1,2,2,3,11,0,No industry connections
+R0937,Student_937,student937@test.com,555-0137,1st,Arts,Product Manager,Tier 1,4,2,3,8,0,Lack of practical experience
+R0938,Student_938,student938@test.com,555-0138,4th,Commerce,Data Scientist,Tier 2,3,3,2,8,1,No research exposure;No industry connections;Lack of practical experience
+R0939,Student_939,student939@test.com,555-0139,1st,Science,Software Engineer,Tier 1,4,1,4,17,1,No mentorship;No research exposure
+R0940,Student_940,student940@test.com,555-0140,4th,Commerce,Software Engineer,Tier 1,3,1,2,8,0,No mentorship
+R0941,Student_941,student941@test.com,555-0141,2nd,Arts,Researcher,Tier 3,2,3,2,22,1,Poor portfolio;No mentorship
+R0942,Student_942,student942@test.com,555-0142,2nd,Arts,Software Engineer,Tier 1,4,4,3,4,0,No research exposure;No industry connections;No mentorship
+R0943,Student_943,student943@test.com,555-0143,1st,Science,Researcher,Tier 1,4,3,4,15,1,No mentorship;No research exposure
+R0944,Student_944,student944@test.com,555-0144,1st,Engineering,Software Engineer,Tier 3,3,1,3,7,1,No mentorship;No industry connections;Lack of practical experience
+R0945,Student_945,student945@test.com,555-0145,1st,Arts,Researcher,Tier 2,3,1,2,8,0,Lack of practical experience;Poor portfolio
+R0946,Student_946,student946@test.com,555-0146,3rd,Arts,Product Manager,Tier 1,3,3,2,20,0,No research exposure
+R0947,Student_947,student947@test.com,555-0147,2nd,Science,Researcher,Tier 2,3,2,4,6,1,No research exposure
+R0948,Student_948,student948@test.com,555-0148,1st,Arts,Product Manager,Tier 3,4,4,1,11,0,No industry connections;No research exposure
+R0949,Student_949,student949@test.com,555-0149,3rd,Arts,Data Scientist,Tier 1,2,2,1,25,0,Poor portfolio;No industry connections;Lack of practical experience
+R0950,Student_950,student950@test.com,555-0150,1st,Commerce,Data Scientist,Tier 2,2,1,2,9,1,No mentorship;Poor portfolio;No industry connections
+R0951,Student_951,student951@test.com,555-0151,3rd,Engineering,Researcher,Tier 1,3,2,2,15,0,No research exposure
+R0952,Student_952,student952@test.com,555-0152,3rd,Engineering,Software Engineer,Tier 2,4,4,2,25,1,No industry connections;No mentorship;Lack of practical experience
+R0953,Student_953,student953@test.com,555-0153,3rd,Science,Data Scientist,Tier 2,3,2,2,11,0,No research exposure;No industry connections;No mentorship
+R0954,Student_954,student954@test.com,555-0154,1st,Arts,Researcher,Tier 3,3,3,4,21,0,No mentorship;No industry connections;No research exposure
+R0955,Student_955,student955@test.com,555-0155,2nd,Commerce,Data Scientist,Tier 2,4,3,2,5,0,Lack of practical experience;No mentorship
+R0956,Student_956,student956@test.com,555-0156,Graduated,Commerce,Researcher,Tier 3,4,1,3,14,0,No research exposure;No industry connections
+R0957,Student_957,student957@test.com,555-0157,4th,Commerce,Software Engineer,Tier 3,3,2,4,9,1,No industry connections;Poor portfolio;Lack of practical experience
+R0958,Student_958,student958@test.com,555-0158,Graduated,Arts,Software Engineer,Tier 2,4,3,3,14,1,Lack of practical experience;No industry connections
+R0959,Student_959,student959@test.com,555-0159,1st,Arts,Software Engineer,Tier 2,2,1,1,1,0,No industry connections;Lack of practical experience;Poor portfolio
+R0960,Student_960,student960@test.com,555-0160,2nd,Science,Product Manager,Tier 1,3,3,2,4,0,Poor portfolio;Lack of practical experience;No mentorship
+R0961,Student_961,student961@test.com,555-0161,Graduated,Science,Software Engineer,Tier 1,3,2,4,6,1,Lack of practical experience;No research exposure
+R0962,Student_962,student962@test.com,555-0162,4th,Engineering,Software Engineer,Tier 2,1,4,3,7,1,No industry connections;No research exposure
+R0963,Student_963,student963@test.com,555-0163,Graduated,Engineering,Product Manager,Tier 1,3,3,2,5,1,No industry connections;No mentorship;No research exposure
+R0964,Student_964,student964@test.com,555-0164,4th,Arts,Researcher,Tier 3,4,3,2,11,0,No research exposure;Lack of practical experience
+R0965,Student_965,student965@test.com,555-0165,4th,Commerce,Product Manager,Tier 1,3,2,4,9,1,No industry connections;No research exposure;Lack of practical experience
+R0966,Student_966,student966@test.com,555-0166,3rd,Science,Product Manager,Tier 3,3,2,2,5,0,No industry connections;No mentorship;No research exposure
+R0967,Student_967,student967@test.com,555-0167,Graduated,Commerce,Software Engineer,Tier 1,2,2,2,22,0,Poor portfolio;No research exposure
+R0968,Student_968,student968@test.com,555-0168,1st,Commerce,Product Manager,Tier 2,3,2,2,22,1,No industry connections;Poor portfolio;Lack of practical experience
+R0969,Student_969,student969@test.com,555-0169,3rd,Arts,Product Manager,Tier 1,4,2,4,3,0,No research exposure;Poor portfolio;Lack of practical experience
+R0970,Student_970,student970@test.com,555-0170,2nd,Engineering,Data Scientist,Tier 3,4,1,3,13,0,No industry connections
+R0971,Student_971,student971@test.com,555-0171,3rd,Engineering,Software Engineer,Tier 3,4,1,4,5,0,No research exposure
+R0972,Student_972,student972@test.com,555-0172,4th,Science,Data Scientist,Tier 1,3,3,1,9,0,No mentorship
+R0973,Student_973,student973@test.com,555-0173,4th,Science,Software Engineer,Tier 3,3,2,5,4,1,No research exposure;Lack of practical experience
+R0974,Student_974,student974@test.com,555-0174,3rd,Science,Product Manager,Tier 1,4,1,3,15,1,Poor portfolio;No mentorship
+R0975,Student_975,student975@test.com,555-0175,1st,Commerce,Product Manager,Tier 3,3,4,2,9,0,No research exposure
+R0976,Student_976,student976@test.com,555-0176,2nd,Engineering,Researcher,Tier 1,3,4,4,8,0,Poor portfolio;Lack of practical experience;No research exposure
+R0977,Student_977,student977@test.com,555-0177,3rd,Engineering,Data Scientist,Tier 3,3,2,4,22,1,No research exposure;Poor portfolio;No industry connections
+R0978,Student_978,student978@test.com,555-0178,1st,Engineering,Researcher,Tier 2,3,3,3,24,0,No mentorship
+R0979,Student_979,student979@test.com,555-0179,Graduated,Arts,Software Engineer,Tier 1,3,1,1,24,0,Lack of practical experience;No research exposure
+R0980,Student_980,student980@test.com,555-0180,Graduated,Engineering,Product Manager,Tier 1,3,2,2,1,0,No mentorship;Poor portfolio;No industry connections
+R0981,Student_981,student981@test.com,555-0181,4th,Arts,Data Scientist,Tier 1,3,2,3,19,0,Lack of practical experience;No research exposure;No industry connections
+R0982,Student_982,student982@test.com,555-0182,4th,Commerce,Data Scientist,Tier 2,3,1,2,3,0,No industry connections
+R0983,Student_983,student983@test.com,555-0183,3rd,Arts,Data Scientist,Tier 2,3,2,2,7,0,No industry connections;Lack of practical experience;No research exposure
+R0984,Student_984,student984@test.com,555-0184,2nd,Engineering,Software Engineer,Tier 1,3,2,4,1,0,No industry connections;No mentorship
+R0985,Student_985,student985@test.com,555-0185,3rd,Science,Product Manager,Tier 2,2,4,2,6,0,Poor portfolio;No mentorship;No research exposure
+R0986,Student_986,student986@test.com,555-0186,3rd,Arts,Researcher,Tier 3,3,4,4,10,1,Poor portfolio
+R0987,Student_987,student987@test.com,555-0187,4th,Commerce,Researcher,Tier 1,4,3,3,23,1,Lack of practical experience
+R0988,Student_988,student988@test.com,555-0188,3rd,Science,Software Engineer,Tier 1,3,1,2,14,0,No research exposure
+R0989,Student_989,student989@test.com,555-0189,1st,Arts,Researcher,Tier 3,4,3,2,19,0,Lack of practical experience;No research exposure
+R0990,Student_990,student990@test.com,555-0190,4th,Commerce,Software Engineer,Tier 1,3,3,3,13,1,Poor portfolio
+R0991,Student_991,student991@test.com,555-0191,1st,Arts,Software Engineer,Tier 3,2,2,3,24,1,Lack of practical experience
+R0992,Student_992,student992@test.com,555-0192,3rd,Commerce,Product Manager,Tier 3,5,1,2,25,0,No research exposure;Poor portfolio;No industry connections
+R0993,Student_993,student993@test.com,555-0193,4th,Commerce,Researcher,Tier 1,3,3,4,0,0,Poor portfolio;Lack of practical experience;No research exposure
+R0994,Student_994,student994@test.com,555-0194,Graduated,Arts,Researcher,Tier 3,2,3,3,11,0,Poor portfolio;Lack of practical experience;No research exposure
+R0995,Student_995,student995@test.com,555-0195,3rd,Arts,Researcher,Tier 1,3,2,3,11,0,No industry connections;No mentorship;No research exposure
+R0996,Student_996,student996@test.com,555-0196,1st,Engineering,Researcher,Tier 3,1,1,3,14,0,Poor portfolio;No industry connections
+R0997,Student_997,student997@test.com,555-0197,4th,Science,Data Scientist,Tier 3,5,2,3,20,0,No industry connections
+R0998,Student_998,student998@test.com,555-0198,4th,Arts,Software Engineer,Tier 3,3,2,2,22,0,Lack of practical experience;Poor portfolio
+R0999,Student_999,student999@test.com,555-0199,Graduated,Engineering,Data Scientist,Tier 2,4,2,3,6,0,Poor portfolio;No research exposure;Lack of practical experience
+R1000,Student_1000,student1000@test.com,555-0100,4th,Arts,Data Scientist,Tier 1,2,4,3,10,0,Poor portfolio;No research exposure;No mentorship
